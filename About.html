@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <style>
+        .about-section {
+            background-color: #fff8f3;
+            padding: 60px 20px;
+            color: #333;
+            font-family: "Poppins", sans-serif;
+        }
+
+        .about-container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #ffffff;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .about-container h2 {
+            text-align: center;
+            font-size: 2.5rem;
+            color: #c94f4f;
+            margin-bottom: 25px;
+        }
+
+        .about-container p {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            margin-bottom: 20px;
+        }
+
+        .about-container ul {
+            list-style: none;
+            padding-left: 0;
+            margin-bottom: 20px;
+        }
+
+        .about-container ul li {
+            font-size: 1.05rem;
+            line-height: 1.7;
+            padding-left: 24px;
+            position: relative;
+            margin-bottom: 10px;
+        }
+
+        .about-container ul li::before {
+            content: "✔️";
+            position: absolute;
+            left: 0;
+            color: #ff6347;
+            font-size: 1.1rem;
+        }
+
+        /* ✅ MEDIA QUERIES FOR RESPONSIVENESS */
+
+        /* Medium Devices - Tablets (768px and below) */
+        @media (max-width: 768px) {
+            .about-container {
+                padding: 30px 20px;
+            }
+
+            .about-container h2 {
+                font-size: 2rem;
+            }
+
+            .about-container p,
+            .about-container ul li {
+                font-size: 1rem;
+            }
+        }
+
+        /* Small Devices - Phones (480px and below) */
+        @media (max-width: 480px) {
+            .about-container {
+                padding: 25px 15px;
+            }
+
+            .about-container h2 {
+                font-size: 1.7rem;
+            }
+
+            .about-container p,
+            .about-container ul li {
+                font-size: 0.95rem;
+                line-height: 1.6;
+            }
+
+            .about-section {
+                padding: 40px 15px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <section class="about-section" id="about">
+        <div class="about-container">
+            <h2>About ClicktoCook</h2>
+            <p>
+                <strong>ClicktoCook</strong> is your go-to destination for quick, simple, and delicious recipes. Whether
+                you're a student, a busy professional, or someone new to cooking, our goal is to make your cooking
+                experience easier and more enjoyable.
+            </p>
+            <p>
+                Our recipes are categorized by <strong>Breakfast</strong>, <strong>Lunch</strong>, and
+                <strong>Dinner</strong> — so you can easily find what suits your mood or schedule.
+            </p>
+            <ul>
+                <li>🍽️ Easy-to-follow, step-by-step instructions</li>
+                <li>🌿 Recipes using common, local ingredients</li>
+                <li>🔎 Category-based filtering</li>
+                <li>📸 Visually engaging recipe cards</li>
+            </ul>
+            <p>
+                We believe that cooking should be accessible to everyone, which is why we focus on recipes that require
+                minimal ingredients and tools. Our platform is designed to help you cook like a pro, even if you're just
+                starting out.
+            <p>
+                We’re continuously working to add <strong>video recipes</strong>, more <strong>regional dishes</strong>,
+                and even <strong>user-submitted content</strong> — stay tuned!
+            </p>
+        </div>
+    </section>
+
+</body>
+
+</html>

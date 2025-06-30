@@ -1,0 +1,778 @@
+[
+  {
+    "id": "strawberry-muffins",
+    "title": "Strawberry Muffins",
+    "image": "images/b1 (1).png",
+    "prepTime": "10 mins",
+    "cookTime": "25 mins",
+    "servings": "6",
+    "description": "Delicious and fluffy muffins loaded with fresh strawberries.",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "2/3 cup organic cane sugar or coconut sugar",
+      "2 tsp baking powder",
+      "1/2 tsp baking soda",
+      "1/2 tsp salt",
+      "1 cup unsweetened almond milk",
+      "1 tbsp apple cider vinegar (or lemon juice)",
+      "1/3 cup vegetable oil or melted coconut oil",
+      "1 tsp pure vanilla extract",
+      "1 1/2 cups fresh strawberries, diced"
+    ],
+
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Prep the Oven & Muffin Pan",
+        "description": "Preheat oven to 375°F (190°C). Lightly grease muffin pan or line with silicone baking cups.",
+        "image": "images/breakfast/muffins/final.jpg",
+        "name": "Nonstick Muffin Pan – 12 Cup",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 2,
+        "title": "Make Vegan Buttermilk",
+        "description": "Combine almond milk and apple cider vinegar in a bowl. Stir and let sit for 5 minutes to curdle slightly.",
+        "image": "images/breakfast/muffins/mixing.jpg",
+        "name": "Mixing Bowls – Nested Set",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 3,
+        "title": "Mix the Dry Ingredients",
+        "description": "In a large mixing bowl, sift and whisk together flour, sugar, baking powder, baking soda, and salt.",
+        "image": "images/breakfast/muffins/final.jpg",
+        "name": "Silicone Spatula Set",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 4,
+        "title": "Mix the Wet Ingredients",
+        "description": "In another bowl, mix prepared vegan buttermilk, oil, and vanilla extract.",
+        "image": "images/breakfast/muffins/final1.jpg",
+        "name": "Fine Mesh Sifter",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 5,
+        "title": "Combine Wet & Dry",
+        "description": "Pour the wet ingredients into the dry ingredients. Mix gently until just combined. Do not overmix."
+      },
+      {
+        "step": 6,
+        "title": "Fold in the Strawberries",
+        "description": "Fold in the diced strawberries using a spatula. Make sure they are dry before adding."
+      },
+      {
+        "step": 7,
+        "title": "Fill the Muffin Cups",
+        "description": "Scoop batter into muffin cups, filling each about 3/4 full."
+      },
+      {
+        "step": 8,
+        "title": "Bake",
+        "description": "Bake for 22–25 minutes until a toothpick inserted in the center comes out clean."
+      },
+      {
+        "step": 9,
+        "title": "Cool",
+        "description": "Let muffins cool in the pan for 5 minutes, then transfer to a cooling rack.",
+        "name": "Strawberry Huller & Dicer Tool",
+        "affiliate_link": "#"
+      }
+    ],
+    "serving_and_storage": {
+      "serve": "Serve warm or at room temperature.",
+      "store": "Store in an airtight container at room temperature for 2–3 days, or refrigerate up to 5 days. Freeze up to 2 months.",
+      "image": "images/breakfast/muffins/serving1.jpg"
+    },
+    "pro_tips": [
+      "Sprinkle sugar on top before baking for a crisp top.",
+      "Swap strawberries for blueberries or raspberries for variation.",
+      "Use frozen berries straight from the freezer, dusted in flour."
+    ],
+    "source": "ClickToCook.com",
+    "category": "breakfast"
+  },
+  {
+    "id": "Banana-pancakes",
+    "title": " Banana Oatmeal Pancakes",
+    "image": "images/b1 (2).png",
+    "prepTime": "10 mins",
+    "cookTime": "5 mins",
+    "servings": "2",
+    "description": " These Banana Oatmeal Pancakes are a delicious and healthy breakfast option. Made with simple ingredients, they are vegan, gluten-free, and packed with flavor.",
+    "ingredients": [
+      "1 cup rolled oats (gluten-free if needed)",
+      "1 medium ripe banana",
+      "3/4 cup unsweetened almond milk (or any plant milk)",
+      "1 tbsp maple syrup (optional)",
+      "1 tbsp ground flaxseed",
+      "1 tsp baking powder",
+      "1/2 tsp cinnamon",
+      "1/2 tsp vanilla extract",
+      "Pinch of salt",
+      "Coconut oil or vegan butter for cooking"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Blend the Dry Base",
+        "description": "Add 1 cup of rolled oats to a high-speed blender or food processor and blend until it becomes a fine flour.",
+        "image": "images/breakfast/vegetable-sandwich/mkix.png",
+        "name": "High-Speed Blender or Food Processor",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 2,
+        "title": "Prepare the Batter",
+        "description": "Add banana, almond milk, flaxseed, maple syrup, baking powder, cinnamon, vanilla, and salt to the oat flour in the blender. Blend until smooth. Let batter rest 5 minutes to thicken.",
+
+        "name": "Masher or Fork",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 3,
+        "title": "Heat the Pan",
+        "description": "Heat a nonstick skillet or griddle over medium heat. Lightly brush with coconut oil or vegan butter.",
+        "image": "images/breakfast/vegetable-sandwich/mix1.png",
+        "name": "Oil Brush or Dispenser",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 4,
+        "title": "Cook the Pancakes",
+        "description": "Pour 1/4 cup of batter per pancake onto the skillet. Cook for 2–3 minutes until bubbles form and edges firm. Flip and cook for 1–2 minutes more.",
+        "name": "Nonstick Skillet or Griddle",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 5,
+        "title": "Repeat and Serve",
+        "description": "Repeat until all batter is used. Serve pancakes warm with banana slices, maple syrup, nut butter, or berries.",
+        "image": "images/breakfast/vegetable-sandwich/show.jpg",
+        "name": "Measuring Cups & Spoons Set",
+        "affiliate_link": "#"
+      }
+    ],
+    "serving_and_storage": {
+      "serve": "Serve warm with your favorite toppings.",
+      "store": "Refrigerate up to 3 days in an airtight container or freeze with parchment between layers.",
+      "image": "images/breakfast/vegetable-sandwich/showing.jpg"
+    },
+    "pro_tips": [
+      "Add vegan chocolate chips to the batter for a treat.",
+      "Mix in a scoop of vegan protein powder for a protein boost.",
+      "Thin the batter slightly with more milk for thinner pancakes."
+    ],
+    "source": "ClickToCook.com",
+    "category": "breakfast"
+  },
+  {
+    "id": "Avocado-Toast",
+    "title": "Avocado Toast with Egg ",
+    "image": "images/b1 (3).png",
+    "prepTime": "10 mins",
+    "cookTime": " 5 mins",
+    "servings": "1",
+    "description": " Creamy avocado spread on toasted bread, topped with a perfectly poached egg.",
+    "ingredients": [
+      "2 slices of whole grain or sourdough bread",
+      "1 ripe avocado",
+      "2 large eggs",
+      "1 tsp fresh lemon juice",
+      "Salt and black pepper to taste",
+      "Red pepper flakes",
+      "Everything bagel seasoning",
+      "Feta cheese",
+      "Microgreens",
+      "Cherry tomatoes",
+      "Olive oil drizzle"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Toast the Bread",
+        "description": "Toast the bread slices in a toaster or toaster oven until golden brown and crispy.",
+        "image": "images/breakfast/Avocado-Toast/process.png",
+        "name": "4-Slot Toaster or Toaster Oven",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 2,
+        "title": "Mash the Avocado",
+        "description": "Scoop the avocado into a bowl, add lemon juice, salt, and pepper. Mash with a fork until creamy but slightly chunky.",
+        "image": "images/breakfast/Avocado-Toast/garnishing.png",
+        "name": "Serrated Bread Knife",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 3,
+        "title": "Cook the Eggs",
+        "description": "Cook the eggs to your preference (fried, poached, or boiled) and season with salt and pepper.",
+        "image": "images/breakfast/Avocado-Toast/garni3.png",
+        "name": "Nonstick Frying Pan or Skillet",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 4,
+        "title": "Assemble the Toast",
+        "description": "Spread mashed avocado on toasted bread. Top with cooked egg and optional toppings like red pepper flakes or feta.",
+        "image": "images/breakfast/Avocado-Toast/garni1.png",
+        "name": "Silicone Spatula",
+        "affiliate_link": "#"
+      }
+    ],
+    "serving_and_storage": {
+      "serve": "Best fresh, but cooked eggs can be made ahead and gently reheated.",
+      "store": " Store mashed avocado with lemon juice in the fridge for 1 day.",
+      "image": "images/breakfast/Avocado-Toast/last.jpg"
+    },
+    "pro_tips": [
+      "Use ripe avocados for best texture and flavor.",
+      "Add cucumber or radish slices for extra crunch.",
+      "Top with smoked salmon or sautéed greens to make it more filling."
+    ],
+    "source": "ClickToCook.com",
+    "category": "breakfast"
+  },
+  {
+    "id": "Italian-Sandwich",
+    "title": "Italian Sandwich with Basil Pesto ",
+    "image": "images/breakfast/italian-sandwich/start.jpg",
+    "prepTime": " 15 mins",
+    "cookTime": " 5 mins",
+    "servings": " 2",
+    "description": "  A classic Italian sandwich with fresh mozzarella, tomatoes, and basil pesto on ciabatta bread.",
+    "ingredients": [
+      "1 small ciabatta loaf or 2 pieces of baguette",
+      "2–3 tbsp basil pesto",
+      "1 medium ripe tomato, sliced",
+      "4–6 slices fresh mozzarella cheese",
+      "A handful of fresh basil leaves",
+      "Balsamic glaze",
+      "Olive oil",
+      "Salt and pepper to taste",
+      "Arugula (for peppery flavor)"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Slice the Bread",
+        "description": "Slice the ciabatta or baguette horizontally to make a sandwich base. Toast lightly if desired.",
+        "name": "Serrated Bread Knife",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 2,
+        "title": "Spread the Pesto",
+        "description": "Spread basil pesto evenly on the cut sides of the bread using a spatula or spreader.",
+        "image": "images/breakfast/italian-sandwich//pest.jpg",
+        "name": "Tomato Slicer or Sharp Chef’s Knife",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 3,
+        "title": "Layer the Ingredients",
+        "description": "Layer with mozzarella slices, tomato slices (seasoned with salt and pepper), basil leaves, and optional arugula or drizzle of balsamic.",
+        "image": "images/breakfast/italian-sandwich/garnishing.jpg",
+        "name": "Tomato Slicer or Sharp Chef’s Knife",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 4,
+        "title": "Close & Toast (Optional)",
+        "description": "Close the sandwich and toast it in a panini press or skillet for 2–3 minutes per side until golden and melty.",
+        "image": "images/breakfast/italian-sandwich/last.jpg",
+        "name": "Pesto Spreader or Silicone Spatula",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 5,
+        "title": "Serve",
+        "description": "Slice in half and serve immediately with a side of chips or salad.",
+        "image": "images/breakfast/italian-sandwich/last1.jpg",
+        "name": "Cheese Slicer or Mozzarella Knife",
+        "affiliate_link": "#"
+      }
+    ],
+    "serving_and_storage": {
+      "serve": "Best when fresh. If prepping ahead, add tomatoes just before eating to avoid sogginess.",
+      "store": "Wrap tightly and store up to 24 hours in the refrigerator.",
+      "image": "images/breakfast/italian-sandwich/last.jpg"
+    },
+    "pro_tips": [
+      "Use heirloom or vine-ripened tomatoes for best flavor.",
+      "Sprinkle flaky salt on the tomato slices to enhance sweetness.",
+      "Add grilled veggies or avocado to make it more filling."
+    ],
+    "source": "ClickToCook.com",
+    "category": "breakfast"
+  },
+  {
+    "id": "Buffalo Tofu Wrap",
+    "title": "Buffalo Tofu Wrap – Spicy, Crispy & Totally Vegan!",
+    "image": "images/lunch/buffalo/buffalo-tofu-wrap-2.jpg",
+    "prepTime": "10 mins",
+    "cookTime": "25 mins",
+    "servings": "6",
+    "description": "If you're craving something spicy, protein-packed, and satisfying, Perfect for lunch, dinner.",
+    "ingredients": [
+      "1 block (14 oz) extra-firm tofu,pressed",
+      "1 tbsp olive oil",
+      "1 tbsp cornstarch (for extra crispiness)",
+      "½ tsp garlic powder",
+      "½ tsp smoked paprika",
+      "Salt and pepper to taste",
+      "¼ cup buffalo sauce (use vegan-friendly)",
+      "FOR WRAP:-",
+      " 2–3 large flour tortillas (or whole wheat wraps)",
+      "1 cup shredded lettuce",
+      "½ cup diced tomatoes",
+      " ½ cup shredded carrots",
+      "¼ cup thinly sliced red onions",
+      " 1 avocado, sliced (optional)",
+      " 2–3 tbsp vegan ranch dressing"
+    ],
+
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Press the Tofu",
+        "description": "Why press tofu? \n Tofu is packed in water, and before cooking, it’s essential to remove as much moisture as possible. Pressing helps the tofu become firmer, allowing it to absorb flavors better and crisp up when cooked. \n How to press it: \n Tofu press method: Place the tofu block in a tofu press, tighten, and let it sit for 15–20 minutes. \n Manual method: Wrap tofu in a clean kitchen towel or a few paper towels. Place it on a plate and set something heavy on top (like a skillet or a book). Let it press for 15–20 minutes.Pro tip: The longer you press, the better the texture—especially for stir-fries or pan-frying",
+        "image": "images/lunch/buffalo/chopped-tofu.jpg",
+        "name": "Tofu Press",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 2,
+        "title": "Cook the Tofu",
+        "description": "Pan-fry tofu in a nonstick skillet for 2–3 minutes per side until golden and crispy, or air fry at 375°F for 12–15 minutes",
+        "name": "Chef’s Knife & Cutting Board",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 3,
+        "title": "Make the Buffalo Sauce",
+        "description": "Whisk together hot sauce, vegan butter, and garlic powder. Toss cooked tofu in the sauce until fully coated.",
+        "image": "images/lunch/buffalo/baked-buffalo1-tofu.jpg",
+        "name": "Mixing Bowl Set",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 4,
+        "title": "Assemble the Wrap",
+        "description": "On a tortilla, layer lettuce, carrots, avocado, buffalo tofu, and other desired toppings. Drizzle with vegan ranch.",
+        "image": "images/lunch/buffalo/buffalo-tofu-wrap-2.jpg",
+        "name": "Nonstick Skillet or Air Fryer",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 5,
+        "title": "Roll It Up",
+        "description": "Fold in the sides and roll into a tight wrap. Slice in half and serve.",
+        "image": "images/lunch/buffalo/buffalo-tofu-wrap-1.jpg",
+        "name": "Oil Sprayer or Silicone Brush",
+        "affiliate_link": "#",
+        "name1": "Wrap Roller or Silicone Mat",
+        "affiliate_link1": "#"
+      }
+    ],
+    "serving_and_storage": {
+      "serve": "Serve with sweet potato fries, celery sticks, or a side salad.",
+      "store": "Store tofu and veggies separately up to 3 days,Reheat tofu in skillet or air fryer before assembling wrap,Assemble wrap just before eating to avoid sogginess.",
+      "image": "images/lunch/buffalo/start.jpg"
+    },
+    "pro_tips": [
+      "Mix buffalo sauce with vegan mayo for a milder version.",
+      "Add chickpeas or quinoa for extra texture and protein.",
+      "Use gluten-free or spinach tortillas for variation."
+    ],
+    "source": "ClickToCook.com",
+    "category": "lunch"
+  },
+  {
+    "id": "Cheesy Chili Mac",
+    "title": "Cheesy Chili Mac– Comfort Food",
+    "image": "images/lunch/chili-mac/last1.jpg",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "servings": "4 to 6 servings",
+    "description": "a comfort food classic that’s a cross between hearty chili and cheesy macaroni. It’s perfect for weeknight dinners and a big hit with families.",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 medium onion, diced",
+      "2 cloves garlic, minced",
+      "1 lb ground beef (or plant-based)",
+      "1 tbsp chili powder",
+      "1 tsp cumin",
+      "1/2 tsp paprika",
+      "1/4 tsp black pepper",
+      "1/2 tsp salt",
+      "1 can (15 oz) tomato sauce",
+      "1 can (15 oz) kidney beans, rinsed",
+      "1.5 cups beef or vegetable broth",
+      "2 cups elbow macaroni, uncooked",
+      "1.5 cups shredded cheddar cheese"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Sauté Aromatics",
+        "description": "Heat oil in a large skillet. Cook onion until softened, then add garlic and cook 1 more minute.",
+        "image": "images/lunch/chili-mac/mixHow-to-make-Chili-Mac-5..jpg",
+        "name": "Non stick skillet",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 2,
+        "title": "Brown the Meat",
+        "description": "Add ground beef and cook until browned, breaking it up as it cooks.",
+        "image": "images/lunch/chili-mac/mixmake-Chili-Mac-1_1..jpg",
+        "name": "Sillicone Spatula",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 3,
+        "title": "Add Seasonings",
+        "description": "Stir in chili powder, cumin, paprika, salt, and pepper. Cook 1 minute.",
+        "name": "Measuring Cups & Spoons Set",
+        "affiliate_link": "#"
+      },
+      {
+        "step": 4,
+        "title": "Add Sauce and Beans",
+        "description": "Stir in tomato sauce, beans, and broth. Mix well.",
+        "image": "images/lunch/chili-mac/step4.jpg"
+      },
+      {
+        "step": 5,
+        "title": "Add Macaroni",
+        "description": "Add uncooked macaroni. Cover and simmer 10–12 minutes until pasta is cooked.",
+        "image": "images/lunch/chili-mac/step5.jpg"
+      },
+      {
+        "step": 6,
+        "title": "Stir in Cheese",
+        "description": "Turn off heat and stir in shredded cheese until melted.",
+        "image": "images/lunch/chili-mac/mixHow-to-make-Chili-Mac-4..jpg",
+        "name": "Box grater",
+        "affiliate_link": "https://www.amazon.com/dp/B00004OCJQ"
+      },
+      {
+        "step": 7,
+        "title": "Serve",
+        "description": "Scoop into bowls and garnish with more cheese or toppings.",
+        "image": "images/lunch/chili-mac/last.jpg"
+      }
+    ],
+    "serving_and_storage": {
+      "serve": "Serve hot in bowls with extra shredded cheese, sour cream, or jalapeños if desired.",
+      "store": "Store leftovers in an airtight container in the fridge for up to 4 days. Reheat on the stove with a splash of broth.",
+      "image": "images/lunch/chili-mac/last1.jpg"
+    },
+    "pro_tips": [
+      "Substitute ground beef with plant-based crumbles for a vegetarian version.",
+      "Add a dash of hot sauce for extra spice.",
+      "Shred your own cheddar for best melting quality."
+    ],
+    "source": "ClickToCook.com",
+    "category": "lunch"
+  },
+  {
+    "id": "Stuffed Sweet Potatoes",
+    "title": "Stuffed Sweet Potatoes  ",
+    "image": "images/lunch/potatoes/last.jpg",
+    "prepTime": "15 mins",
+    "cookTime": " 45 mins",
+    "servings": "2 - 3",
+    "description": " These roasted sweet potatoes are loaded with a flavorful mix of black beans, corn, avocado, and cheese. ",
+    "ingredients": [
+      "2 large sweet potatoes",
+      "1 tbsp olive oil",
+      "Salt and pepper to taste",
+      "1 cup cooked black beans",
+      "1/2 cup corn kernels",
+      "1/2 cup diced red bell pepper",
+      "1/4 cup chopped red onion",
+      "1 small avocado, diced",
+      "1 tbsp lime juice",
+      "1/4 tsp ground cumin",
+      "Greek yogurt or sour cream (optional)",
+      "Chopped cilantro (optional)",
+      "Hot sauce (optional)"
+    ],
+
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Bake the Sweet Potatoes",
+        "description": "Preheat oven to 400°F (200°C). Prick sweet potatoes with a fork, place on parchment-lined baking sheet, drizzle with olive oil, and bake for 45–50 minutes until tender.",
+        "image": "images/lunch/potatoes/roast-stp1.jpg",
+        "name": "Baking tray",
+        "affiliate_link": "https://www.amazon.com/dp/B09C4W3B5M"
+      },
+      {
+        "step": 2,
+        "title": "Prepare the Filling",
+        "description": "Mix black beans, corn, bell pepper, onion, avocado, lime juice, and cumin in a bowl. Season with salt to taste.",
+        "image": "images/lunch/potatoes/stp2.jpg",
+        "name": "Mixing bowl",
+        "affiliate_link": "https://www.amazon.com/dp/B084ZHRM9H"
+      },
+      {
+        "step": 3,
+        "title": "Slice and Stuff",
+        "description": "Slice baked sweet potatoes lengthwise, mash the inside slightly, and stuff with the bean mixture.",
+        "image": "images/lunch/potatoes/stp3.jpg",
+        "name": "Potato masher or fork",
+        "affiliate_link": "https://www.amazon.com/dp/B09LYRXPC3"
+      },
+      {
+        "step": 4,
+        "title": "Add Toppings and Serve",
+        "description": "Top with Greek yogurt, cilantro, and hot sauce. Serve warm.",
+        "image": "images/lunch/potatoes/last1.jpg",
+        "name": "Chef’s knife",
+        "affiliate_link": "https://www.amazon.com/dp/B00004VAGB"
+      }
+    ],
+    "serving_and_storage": {
+      "serve": "Serve warm topped with yogurt, herbs, or hot sauce as desired.",
+      "store": "Store in an airtight container in the fridge for up to 3 days. Reheat in oven or microwave.",
+      "image": "images/lunch/potatoes/start or last.jpg"
+    },
+    "pro_tips": [
+      "Use canned black beans to save time.",
+      "Add chopped jalapeños for extra heat.",
+      "For meal prep, bake potatoes ahead of time and store the filling separately."
+    ],
+    "source": "ClickToCook.com",
+    "category": "lunch"
+  },
+  {
+    "id": "Vegetarian-Quesadillas",
+    "title": " Vegetarian Quesadillas, Cheesy & Satisfying",
+    "image": "images/dinner/veg quasdila/start.jpg",
+    "prepTime": " 10 mins",
+    "cookTime": " 10 mins",
+    "servings": " 2 - 3",
+    "description": "If you're looking for a quick, satisfying, and meat-free meal, these Vegetarian Quesadillas are a must-try! Packed with colorful veggies, melted cheese, and perfectly toasted tortillas.",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1/2 red bell pepper, thinly sliced",
+      "1/2 yellow bell pepper, thinly sliced",
+      "1 small zucchini, halved and sliced",
+      "1/2 small red onion, thinly sliced",
+      "1/2 cup cooked black beans",
+      "1/2 tsp chili powder",
+      "1/4 tsp ground cumin",
+      "Salt and pepper to taste",
+      "4 flour tortillas",
+      "1.5 cups shredded cheddar or Mexican blend cheese",
+      "1 tbsp butter or olive oil for frying",
+      "Sour cream (optional)",
+      "Salsa (optional)",
+      "Guacamole (optional)"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Sauté the Veggies",
+        "description": "Heat oil in a skillet. Add peppers, zucchini, and onion. Cook 5–6 minutes until soft. Add beans, chili powder, cumin, salt, and pepper. Cook 2 minutes more.",
+        "image": "images/dinner/veg quasdila/stp1.jpg",
+        "name": "Non-stick skillet",
+        "affiliate_link": "https://www.amazon.com/dp/B09D6RQTY4"
+      },
+      {
+        "step": 2,
+        "title": "Assemble the Quesadillas",
+        "description": "Sprinkle cheese over half of each tortilla. Add veggie mixture. Fold tortilla in half.",
+        "image": "images/dinner/veg quasdila/stp3.jpg",
+        "name": "Box grater",
+        "affiliate_link": "https://www.amazon.com/dp/B00004OCJQ"
+      },
+      {
+        "step": 3,
+        "title": "Cook Until Crispy",
+        "description": "Cook each quesadilla in a skillet with butter/oil, 2–3 minutes per side until golden brown and crispy.",
+        "name": "Silicone spatula",
+        "affiliate_link": "https://www.amazon.com/dp/B00004OCJQ"
+      },
+      {
+        "step": 4,
+        "title": "Slice and Serve",
+        "description": "Slice into wedges and serve with sour cream, salsa, or guacamole.",
+        "image": "images/dinner/veg quasdila/start.jpg",
+        "name": "Chef’s knife",
+        "affiliate_link": "https://www.amazon.com/dp/B00004VAGB"
+      }
+    ],
+    "serving_and_storage": {
+      "serve": "Serve hot with dips like guacamole, sour cream, or salsa.",
+      "store": "Store leftovers in an airtight container in the fridge for up to 2 days. Reheat in a skillet for best texture.",
+      "image": "images/dinner/veg quasdila/stp5.jpg"
+    },
+    "pro_tips": [
+      "Use a mix of cheeses like cheddar and Monterey Jack for extra flavor.",
+      "Add jalapeños for a spicy kick.",
+      "Press gently with a spatula while cooking to ensure even crisping."
+    ],
+    "source": "ClickToCook.com",
+    "category": "Dinner"
+  },
+  {
+    "id": "Vegetarian-Lasagna",
+    "title": "Homestyle Vegetarian Lasagna ",
+    "image": "images/dinner/VEgetarian Lasagna/start.png",
+    "prepTime": " 25 mins",
+    "cookTime": " 45 mins",
+    "servings": " 6 - 8",
+    "description": " This Ultimate Vegetarian Lasagna is layered with tender pasta, sautéed veggies, creamy ricotta, and bubbling mozzarella — all baked to golden perfection. family-approved, and totally irresistible!",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 medium zucchini, diced",
+      "1 medium bell pepper, chopped",
+      "1 cup mushrooms, sliced",
+      "1 cup baby spinach",
+      "1/2 red onion, chopped",
+      "Salt and pepper to taste",
+      "1.5 cups ricotta cheese",
+      "1 cup shredded mozzarella cheese",
+      "1/2 cup grated Parmesan",
+      "1 egg",
+      "1/4 tsp dried oregano",
+      "9 lasagna noodles",
+      "3 cups marinara sauce",
+      "1 cup shredded mozzarella (for topping)",
+      "2 tbsp fresh basil (optional)"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Sauté the Vegetables",
+        "description": "Heat oil and sauté zucchini, bell pepper, mushrooms, and onion for 5–6 minutes. Add spinach and cook until wilted. Season and set aside.",
+        "image": "images/dinner/VEgetarian Lasagna/stp2.png",
+        "name": "Non-stick skillet",
+        "affiliate_link": "https://www.amazon.com/dp/B09D6RQTY4"
+      },
+      {
+        "step": 2,
+        "title": "Prepare Cheese Mixture",
+        "description": "In a bowl, mix ricotta, mozzarella, Parmesan, egg, and oregano until smooth.",
+        "name": "Mixing bowls",
+        "affiliate_link": "https://www.amazon.com/dp/B084ZHRM9H"
+      },
+      {
+        "step": 3,
+        "title": "Cook Noodles",
+        "description": "Cook lasagna noodles according to package instructions. Drain and set aside.",
+        "image": "images/dinner/VEgetarian Lasagna/stp4.png",
+        "name": "Silicone spatula",
+        "affiliate_link": "https://www.amazon.com/dp/B0892W7P6L"
+      },
+
+      {
+        "step": 4,
+        "title": "Assemble Lasagna",
+        "description": "In a 9x13 baking dish, layer sauce, noodles, cheese mixture, vegetables. Repeat layers 3 times and top with remaining cheese and sauce.",
+        "image": "images/dinner/VEgetarian Lasagna/last2.png",
+        "name": "Baking dish",
+        "affiliate_link": "https://www.amazon.com/dp/B01N6G6LU1"
+      },
+      {
+        "step": 5,
+        "title": "Bake",
+        "description": "Cover with foil and bake at 375°F for 25 minutes. Uncover and bake 15–20 more minutes until golden. Let rest before serving.",
+        "image": "images/dinner/VEgetarian Lasagna/last1.jpg"
+      }
+    ],
+    "serving_and_storage": {
+      "serve": "Let rest 10 minutes after baking for easier slicing. Serve hot.",
+      "store": "Store leftovers in an airtight container in the fridge for up to 4 days. Freeze for up to 2 months.",
+      "image": "images/dinner/VEgetarian Lasagna/last.jpg"
+    },
+    "pro_tips": [
+      "Use no-boil noodles for quicker prep.",
+      "Let the lasagna sit before cutting to hold its shape.",
+      "Add red chili flakes if you like a little heat."
+    ],
+    "source": "ClickToCook.com",
+    "category": "Dinner"
+  },
+  {
+    "id": "Shrimp Scampi with Linguine",
+    "title": "Shrimp Scampi with Linguine ",
+    "image": "images/dinner/Shrimp Scampi with Linguine/sart.jpg",
+    "prepTime": " 10 mins",
+    "cookTime": " 15 mins",
+    "servings": " 4",
+    "description": "Classic shrimp scampi with garlic, lemon, and white wine sauce tossed with linguine. A quick, flavorful dinner ready in under 30 minutes. ",
+    "ingredients": [
+      "12 oz linguine pasta",
+      "1 tbsp salt (for pasta water)",
+      "1 lb large shrimp, peeled and deveined",
+      "2 tbsp olive oil",
+      "4 tbsp unsalted butter",
+      "4 garlic cloves, minced",
+      "1/4 tsp red pepper flakes (optional)",
+      "1/2 cup dry white wine or chicken broth",
+      "Juice of 1 lemon",
+      "1/4 cup chopped parsley",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "title": "Cook the Linguine",
+        "description": "Boil salted water in a large stockpot. Cook linguine until al dente (9–10 minutes). Reserve 1/2 cup pasta water and drain.",
+        "image": "images/dinner/Shrimp Scampi with Linguine/stp1.jpg",
+        "name": "large stockpot",
+        "affiliate_link": "https://www.amazon.com/dp/B01N6G6LU1"
+      },
+      {
+        "step": 2,
+        "title": "Sauté the Shrimp",
+        "description": "Heat olive oil and half the butter in a skillet. Cook shrimp 1–2 minutes per side until pink. Remove from skillet.",
+        "image": "images/dinner/Shrimp Scampi with Linguine/stp2.jpg",
+        "name": "Non stick skillet",
+        "affiliate_link": "https://www.amazon.com/dp/B01N6G6LU1"
+      },
+      {
+        "step": 3,
+        "title": "Make Scampi Sauce",
+        "description": "Melt remaining butter in the same pan. Add garlic and red pepper flakes. Sauté briefly, then add white wine. Simmer 2–3 minutes.",
+        "image": "images/dinner/Shrimp Scampi with Linguine/stp3.jpg",
+        "name": "Non stick Pan",
+        "affiliate_link": "https://www.amazon.com/dp/B01N6G6LU1"
+      },
+
+      {
+        "step": 4,
+        "title": "Toss Everything Together",
+        "description": "Add pasta, shrimp, lemon juice, and reserved water. Toss and cook for 1–2 minutes until well mixed.",
+        "image": "images/dinner/Shrimp Scampi with Linguine/stp4.jpg",
+        "name": "Mixing bowl",
+        "affiliate_link": "https://www.amazon.com/dp/B01N6G6LU1"
+      },
+      {
+        "step": 5,
+        "title": "Garnish and Serve",
+        "description": "Top with chopped parsley and optional lemon zest. Serve warm.",
+        "image": "images/dinner/Shrimp Scampi with Linguine/stp5.jpg"
+      }
+    ],
+    "serving_and_storage": {
+      "serve": "Let rest 10 minutes after baking for easier slicing. Serve hot.",
+      "store": "Store leftovers in an airtight container in the fridge for up to 4 days. Freeze for up to 2 months.",
+      "image": "images/dinner/Shrimp Scampi with Linguine/stp5.1.jpg"
+    },
+    "pro_tips": [
+      "Use no-boil noodles for quicker prep.",
+      "Let the lasagna sit before cutting to hold its shape.",
+      "Add red chili flakes if you like a little heat."
+    ],
+    "source": "ClickToCook.com",
+    "category": "Dinner"
+  }
+]

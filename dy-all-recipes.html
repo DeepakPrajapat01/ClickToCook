@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ClicktoCook - Category Recipes</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "poppins", sans-serif;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    .recipe-header {
+      background-color: brown;
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
+
+    #category-title {
+      background-color: #f8f8f8;
+      padding: 20px;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .card h3 {
+      font-size: clamp(0.9rem, 1.5vw, 1.8rem);
+      /* margin: 10px 0; */
+      color: #333;
+    }
+
+    .card a {
+      text-decoration: none;
+      color: #fff;
+      background-color: #c71818;
+      padding: 10px 20px;
+      margin-top: auto;
+      font-size: clamp(0.8rem, 1vw, 1.2rem);
+      display: inline-block;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+    }
+
+    .footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: auto;
+    }
+
+    a {
+      color: teal;
+      text-decoration: none;
+      margin: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <header class="recipe-header">
+    <h1 id="recipe-title"></h1>
+  </header>
+
+  <section id="category-title" class="hero-part-content">
+    <h1>Category: <span id="category-name">Loading...</span></h1>
+  </section>
+
+  <section id="recipe-list" class="breakfast_card">
+
+    <!-- Recipe cards will be injected here via JS -->
+  </section>
+
+  <p><a href="index.html">← Back to Home</a></p>
+  <footer class="footer">
+    <p>© 2025 ClicktoCook. All rights reserved.</p>
+    <p class="disclaimer">Recipes are for informational purposes only.</p>
+  </footer>
+
+  <script>
+
+    let urlparams = new URLSearchParams(window.location.search);
+    let category = urlparams.get('category');
+    console.log(category);
+    document.getElementById('category-name').textContent = category.charAt(0).toUpperCase() + category.slice(1);
+
+    fetch('recipes.json')
+      .then(response => response.json())
+      .then(data => {
+        let recipes = data.filter(recipe => recipe.category.toLowerCase() === category.toLowerCase());
+        let recipeList = document.getElementById('recipe-list');
+        recipeList.innerHTML = ''; // Clear existing content
+        recipes.forEach(recipe => {
+          let card = document.createElement('div');
+          card.className = 'card';
+          card.innerHTML = ` 
+                  <img src="${recipe.image}" alt="${recipe.title}" class="recipe-image">
+                  <h3 class="recipe-title">${recipe.title}</h3>
+                  <p class="recipe-description">${recipe.description}</p>
+                  <a href="dy_recipes.html?id=${recipe.id}" class="view-recipe-button">View Recipe</a>
+              `;
+          recipeList.appendChild(card);
+        });
+      })
+
+
+  </script>
+
+</body>
+
+</html>

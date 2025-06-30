@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Affiliate Deals | Click to Cook</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #1a1a1a;
+            color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            padding: 20px;
+            text-align: center;
+        }
+        .affiliate-products {
+            background-color: #2e2e2e;
+            color: #f0f0f0;
+            padding: 40px 20px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+            justify-content: center;
+            align-items: start;
+        }
+
+        .section-title {
+            grid-column: 1 / -1;
+            text-align: center;
+            font-size: 2rem;
+            margin-bottom: 20px;
+            color: #fff;
+            font-weight: 600;
+        }
+
+        .product-card {
+            background-color: #3a3a3a;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 6px 14px rgba(0, 0, 0, 0.3);
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+        .product-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .product-card img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+
+        .product-card h3 {
+            font-size: 1.2rem;
+            color: #ffd700;
+            margin-bottom: 10px;
+        }
+
+        .product-card p {
+            font-size: 0.95rem;
+            color: #cccccc;
+            margin-bottom: 15px;
+        }
+
+        .product-card a {
+            display: inline-block;
+            background-color: #ff9800;
+            color: #000;
+            text-decoration: none;
+            padding: 10px 18px;
+            border-radius: 6px;
+            font-weight: 600;
+            transition: background-color 0.3s ease;
+        }
+
+        .product-card a:hover {
+            background-color: #ffa726;
+        }
+        footer {
+            background-color: #333;
+            color: #f0f0f0;
+            text-align: center;
+            padding: 20px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Affiliate Deals</h1>
+        <p>Recommended tools & gadgets for your kitchen</p>
+    </header>
+
+    <section class="affiliate-products">
+        <div class="product-card">
+            <img src="images/blender.jpg" alt="High-Speed Blender">
+            <h3>High-Speed Blender</h3>
+            <p>Perfect for smoothies, sauces, and soups.</p>
+            <a href="https://www.amazon.in/your-affiliate-link1" target="_blank">Buy Now</a>
+        </div>
+
+        <div class="product-card">
+            <img src="images/nonstick-pan.jpg" alt="Non-Stick Frying Pan">
+            <h3>Non-Stick Frying Pan</h3>
+            <p>Cook evenly with this easy-to-clean non-stick pan.</p>
+            <a href="https://www.amazon.in/your-affiliate-link2" target="_blank">Buy Now</a>
+        </div>
+
+        <div class="product-card">
+            <img src="images/measuring-spoons.jpg" alt="Measuring Spoons Set">
+            <h3>Measuring Spoons Set</h3>
+            <p>Accurate measurements for perfect results every time.</p>
+            <a href="https://www.amazon.in/your-affiliate-link3" target="_blank">Buy Now</a>
+        </div>
+
+        <div class="product-card">
+            <img src="images/chopper.jpg" alt="Manual Food Chopper">
+            <h3>Manual Food Chopper</h3>
+            <p>Quickly dice vegetables without electricity.</p>
+            <a href="https://www.amazon.in/your-affiliate-link4" target="_blank">Buy Now</a>
+        </div>
+
+        <div class="product-card">
+            <img src="images/spice-rack.jpg" alt="Rotating Spice Rack">
+            <h3>Rotating Spice Rack</h3>
+            <p>Organize your spices with this stylish rotating rack.</p>
+            <a href="https://www.amazon.in/your-affiliate-link5" target="_blank">Buy Now</a>
+        </div>
+
+        <div class="product-card">
+            <img src="images/mixing-bowls.jpg" alt="Stainless Steel Mixing Bowls">
+            <h3>Mixing Bowl Set</h3>
+            <p>Durable, stackable bowls for baking and meal prep.</p>
+            <a href="https://www.amazon.in/your-affiliate-link6" target="_blank">Buy Now</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>As an Amazon Associate, we may earn from qualifying purchases.</p>
+    </footer>
+</body>
+
+</html>

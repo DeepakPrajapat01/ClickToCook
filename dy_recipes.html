@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Recipe Details</title>
+    <link rel="stylesheet" href="recipe.css" />
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Poppins", sans-serif;
+        }
+
+        body {
+            background-color: #fff;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .recipe-header {
+            background-color: brown;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .recipe-container {
+            max-width: 1000px;
+            margin: 30px auto;
+            padding: 20px;
+        }
+
+        .recipe-image-box {
+            height: 250px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .recipe-image-box img {
+            max-width: 100%;
+            width: 250px;
+            height: 250px;
+            max-height: 100%;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .recipe-meta {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            margin-bottom: 30px;
+            background: #f9f9f9;
+            padding: 15px;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+
+        .recipe-description,
+        .recipe-ingredients,
+        .recipe-instructions {
+            margin-bottom: 30px;
+        }
+
+        .recipe-description h2,
+        .recipe-ingredients h2,
+        .recipe-instructions h2 {
+            margin-bottom: 10px;
+            color: brown;
+            font-size: 24px;
+        }
+
+        #ingredients-list li,
+        #instructions-list li {
+            margin-bottom: 10px;
+            padding-left: 10px;
+        }
+
+        #instructions-list .tool_link {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 40px;
+            justify-content: center;
+            margin-top: 10px;
+            
+        }
+        #instructions-list .tools {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+        #instructions-list .tool_link a {
+            display: inline-block;
+        }
+
+        #instructions-list img {
+            width: 200px;
+            max-width: 40%;
+            height: 200px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 10px 0;
+            aspect-ratio: 1 / 1;
+        }
+
+        .card h3 {
+            font-size: clamp(0.9rem, 1.5vw, 1.8rem);
+            /* margin: 10px 0; */
+            color: #333;
+        }
+
+        .card {
+            background-color: #f8f8f8;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .card a {
+            text-decoration: none;
+            color: #fff;
+            background-color: #c71818;
+            padding: 10px 20px;
+            margin-top: auto;
+            font-size: clamp(0.8rem, 1vw, 1.2rem);
+            display: inline-block;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        #serving_and_storage img {
+            width: 200px;
+            max-width: 40%;
+            height: 200px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 10px 0;
+            aspect-ratio: 1 / 1;
+        }
+
+        #pro_tips {
+            margin-left: 30px;
+        }
+
+        .recipe-footer {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 14px;
+        }
+
+        a {
+            color: teal;
+            text-decoration: none;
+        }
+
+        @media (max-width: 600px) {
+            .recipe-meta {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 10px;
+            }
+
+            .recipe-description h2,
+            .recipe-ingredients h2,
+            .recipe-instructions h2 {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header class="recipe-header">
+        <h1 id="recipe-title">Loading...</h1>
+    </header>
+
+    <main class="recipe-container">
+        <div class="recipe-image-box">
+            <img id="recipe-image" src="" alt="Recipe Image" />
+        </div>
+
+        <section class="recipe-meta">
+            <p><strong>Prep Time:</strong> <span id="prep-time">--</span></p>
+            <p><strong>Cook Time:</strong> <span id="cook-time">--</span></p>
+            <p><strong>Servings:</strong> <span id="servings">--</span></p>
+        </section>
+
+        <section class="recipe-description">
+            <h2>Description</h2>
+            <p id="recipe-description">Loading description...</p>
+        </section>
+
+        <section class="recipe-ingredients">
+            <h2>Ingredients</h2>
+            <ul id="ingredients-list"></ul>
+        </section>
+
+        <section class="recipe-instructions">
+            <h2>Instructions</h2>
+            <span id="instructions-list"></span>
+        </section>
+        <section class="recipe_storage">
+            <h2>Storage</h2>
+            <span id="serving_and_storage"></span>
+        </section>
+        <section class="pro_tips">
+            <h2>Pro-Tips</h2>
+            <ul id="pro_tips"></ul>
+        </section>
+        <section class="recipe_source">
+            <h2>Source</h2>
+            <p id="recipe-source">ClickToCook.com</p>
+        </section>
+    </main>
+
+    <p><a href="index.html">← Back to Home</a></p>
+
+    <footer class="recipe-footer">
+        <p>© 2025 ClicktoCook</p>
+    </footer>
+
+
+    <!-- script -->
+    <script>
+        // Load recipe ID from URL (e.g., recipe.html?id=strawberry-muffins)
+        const urlParams = new URLSearchParams(window.location.search);
+        const recipeId = urlParams.get("id");
+
+        // Load JSON data
+        fetch("recipes.json")
+            .then((response) => response.json())
+            .then((recipes) => {
+                console.log("Loaded recipes:", recipes);
+
+                const recipe = recipes.find((r) => r.id === recipeId);
+                console.log("Selected recipe:", recipe);
+                if (!recipe) {
+                    document.body.innerHTML = "<h2>Recipe not found!</h2>";
+                    return;
+                }
+
+                // Fill content dynamically
+                document.getElementById("recipe-title").textContent = recipe.title;
+                document.getElementById("recipe-image").src = recipe.image;
+                document.getElementById("recipe-image").alt = recipe.title;
+                document.getElementById("prep-time").textContent = recipe.prepTime;
+                document.getElementById("cook-time").textContent = recipe.cookTime;
+                document.getElementById("servings").textContent = recipe.servings;
+                document.getElementById("recipe-description").textContent = recipe.description;
+                document.getElementById("recipe-source").textContent = recipe.source || "ClickToCook.com";
+
+
+                const proTipsList = document.getElementById("pro_tips");
+                recipe.pro_tips.forEach((tip) => {
+                    const li = document.createElement("li");
+                    li.textContent = tip;
+                    proTipsList.appendChild(li);
+                });
+
+                const ingList = document.getElementById("ingredients-list");
+                recipe.ingredients.forEach((item) => {
+                    const li = document.createElement("li");
+                    li.textContent = item;
+                    ingList.appendChild(li);
+                });
+
+                const instList = document.getElementById("instructions-list");
+                let stepCount = 0;
+                recipe.instructions.forEach((step) => {
+                    stepCount++;
+                    let card = document.createElement('div');
+                    card.className = 'card';
+                    card.innerHTML = `
+                     <h3 class="recipe-title">Step${stepCount} :  ${step.title}</h3>
+                     <p class="recipe-description">${step.description}</p>
+                     <img src="${step.image}" alt="${step.title}" class="recipe-image">  
+                    <div class="tool_link">
+                    <div class="tools">
+                     <p class="recipe-description tool">${step.name}</p>
+                     <a href="${step.affiliate_link}" class="view-recipe-button">Buy Tool</a>
+                    </div>
+                    <div class="tools"> 
+                     <p class="recipe-description tool">${step.name1}</p>
+                     <a href="${step.affiliate_link1}" class="view-recipe-button">Buy Tool</a>
+                     </div>
+
+                     </div>
+                    `;
+                    if (!step.image) {
+                        card.querySelector('img').style.display = 'none'; // Hide image if not available
+                    }
+                    if (!step.name) {
+                        card.querySelector('.tool').style.display = 'none'; // Hide tool name if not available
+                    }
+                    if (!step.affiliate_link) {
+                        card.querySelector('.view-recipe-button').style.display = 'none'; // Hide button if no affiliate link
+                    }
+                    if (!step.name1) {
+                        card.querySelector('.tool').style.display = 'none'; // Hide tool name if not available
+                    }
+                    if (!step.affiliate_link1) {
+                        card.querySelector('.view-recipe-button').style.display = 'none'; // Hide button if no affiliate link
+                    }
+                    instList.appendChild(card);
+
+                });
+                // Serving and Storage Section
+                const servingAndStorage = document.getElementById("serving_and_storage");
+                servingAndStorage.innerHTML = `
+                    <p><strong>Serve:</strong> ${recipe.serving_and_storage.serve}</p>
+                    <p><strong>Store:</strong> ${recipe.serving_and_storage.store}</p>
+                    <img src="${recipe.serving_and_storage.image}" alt="Storage Image" class="recipe-image">
+                `;
+            })
+            .catch((error) => {
+                console.error("Error loading recipe:", error);
+                document.body.innerHTML = "<h2>Error loading recipe.</h2>";
+            });
+
+    </script>
+</body>
+
+</html>
