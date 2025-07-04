@@ -850,5 +850,90 @@
     ],
     "source": "ClickToCook.com",
     "category": "Dinner"
-  }
+  },
+  {
+  "id": "Vegan-Gyros",
+  "title": "Vegan Gyros: Greek-Inspired Wraps Bursting with Flavor",
+  "image": "images/dinner/gyro meat/stp1.webp",
+  "prepTime": "25 mins",
+  "cookTime": "15 mins",
+  "servings": "4",
+  "description": "Savory marinated soy curls, fresh veggies, and creamy vegan tzatziki sauce wrapped in soft pita. Perfect for lunch or dinner.",
+  "ingredients": [
+    "1.5 cups soy curls (or 1 block firm tofu or mushrooms)",
+    "2 tbsp olive oil",
+    "1 tsp smoked paprika",
+    "1 tsp ground cumin",
+    "1 tsp oregano",
+    "1 tbsp soy sauce or tamari",
+    "2 garlic cloves, minced",
+    "1 tbsp lemon juice",
+    "Salt & pepper to taste",
+    "1 cup thick vegan yogurt",
+    "1/2 cucumber, grated",
+    "1 tbsp olive oil (for tzatziki)",
+    "1 tbsp lemon juice (for tzatziki)",
+    "1 tbsp chopped dill",
+    "4 pita breads",
+    "1 tomato, sliced",
+    "1/2 red onion, thinly sliced",
+    "1 cup shredded lettuce or cabbage",
+    "Optional: olives, pickled onions, hot sauce"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prepare the Soy Curls or Tofu",
+      "description": "Soak soy curls in hot water for 10 minutes until plump. If using tofu, press and cut into strips.",
+      "image": "images/dinner/gyro meat/stp1.webp",
+      "name": "Large Mixing Bowl & Tofu Press",
+      "affiliate_link": "https://amzn.to/3GrPVtY"
+    },
+    {
+      "step": 2,
+      "title": "Marinate the Protein",
+      "description": "Combine olive oil, soy sauce, lemon juice, garlic, paprika, cumin, oregano, salt, and pepper. Mix in the soy curls or tofu and marinate for 15 minutes.",
+      "image": "images/dinner/gyro meat/stp2.webp",
+      "name": "Mixing Bowl & Garlic Press",
+      "affiliate_link": "https://amzn.to/4kocyxg"
+    },
+    {
+      "step": 3,
+      "title": "Cook the Protein",
+      "description": "Heat a skillet and sauté the marinated soy curls or tofu until golden and crispy, about 8–10 minutes.",
+      "image": "images/dinner/gyro meat/stp3.webp",
+      "name": "Cast Iron Skillet",
+      "affiliate_link": "https://amzn.to/4nxfWc7"
+    },
+    {
+      "step": 4,
+      "title": "Make Vegan Tzatziki",
+      "description": "Mix grated cucumber, vegan yogurt, olive oil, lemon juice, garlic, dill, and salt in a bowl. Chill until ready.",
+      "image": "images/dinner/gyro meat/stp4.webp",
+      "name": "Box Grater & Mini Whisk",
+      "affiliate_link": "https://amzn.to/4015jEe"
+    },
+    {
+      "step": 5,
+      "title": "Warm Pita and Assemble",
+      "description": "Warm pita in a pan or oven. Spread tzatziki, add soy curls/tofu, sliced tomato, onion, and lettuce. Wrap and enjoy.",
+      "image": "images/dinner/gyro meat/stp5.webp",
+      "name": "Nonstick Frying Pan",
+      "affiliate_link": "https://amzn.to/46pkBGK"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve warm with extra tzatziki or a side of lemony potatoes or salad.",
+    "store": "Store the components separately in airtight containers. Use within 3 days for best texture.",
+    "image": "images/dinner/gyro meat/stp6.webp"
+  },
+  "pro_tips": [
+    "Use soy curls for a meaty texture, but mushrooms or tofu work great too.",
+    "Make tzatziki in advance to let flavors meld.",
+    "To keep pita from tearing, warm it slightly before wrapping."
+  ],
+  "source": "ClickToCook.com",
+  "category": "Dinner"
+}
+
 ]
