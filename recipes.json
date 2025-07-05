@@ -625,6 +625,92 @@
   "source": "ClickToCook.com",
   "category": "lunch"
 },
+{
+  "id": "Easy-Vegan-Mexican-Rice",
+  "title": "Easy Vegan Mexican Rice",
+  "image": "images/lunch/rice/first.webp",
+  "prepTime": "10 mins",
+  "cookTime": "25 mins",
+  "servings": "4 - 6",
+  "description": "A quick and flavorful one-pot Mexican rice made with simple ingredients. Perfect as a side dish or light vegan main.",
+  "ingredients": [
+    "1 cup long-grain white rice",
+    "2 tablespoons oil",
+    "1 small onion, finely chopped",
+    "2 garlic cloves, minced",
+    "1/2 cup tomato puree or sauce",
+    "1/2 teaspoon cumin",
+    "1/2 teaspoon chili powder",
+    "Salt to taste",
+    "Pinch of turmeric (optional)",
+    "2 cups water or vegetable broth",
+    "Fresh cilantro and lime juice for garnish"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Rinse the Rice",
+      "description": "Rinse rice under cold water until water runs clear. Drain thoroughly.",
+      
+      "name": "Fine Mesh Strainer",
+      "affiliate_link": "https://amzn.to/44dMpfY"
+    },
+    {
+      "step": 2,
+      "title": "Sauté Onion and Garlic",
+      "description": "Heat oil in a pan and sauté chopped onion and garlic until translucent and aromatic.",
+      "image": "images/lunch/rice/stp2.webp",
+      "name": "Nonstick Skillet",
+      "affiliate_link": "https://amzn.to/4nGm1TJ"
+    },
+    {
+      "step": 3,
+      "title": "Toast the Rice",
+      "description": "Add rice to the skillet and cook for 3–4 minutes until lightly golden, stirring often.",
+     
+      "name": "Silicone Spatula",
+      "affiliate_link": "https://amzn.to/4evlDTC"
+    },
+    {
+      "step": 4,
+      "title": "Add Tomato and Spices",
+      "description": "Stir in tomato puree, cumin, chili powder, turmeric, and salt. Cook for 2 minutes.",
+      "image": "images/lunch/rice/stp2.webp",
+      "name": "Measuring Spoon Set",
+      "affiliate_link": "https://amzn.to/44Vt5Dt"
+    },
+    {
+      "step": 5,
+      "title": "Add Water and Simmer",
+      "description": "Add water or broth. Bring to a boil, then simmer on low, covered, for 18–20 minutes.",
+      "image": "images/lunch/rice/stp4.webp",
+      "name": "Pan with Lid",
+      "affiliate_link": "https://amzn.to/4nGm1TJ"
+    },
+    {
+      "step": 6,
+      "title": "Fluff and Garnish",
+      "description": "Let rice rest 5 minutes. Fluff with a fork and garnish with cilantro and lime.",
+      "image": "images/lunch/rice/stp5.webp",
+      "name": "Herb Scissors",
+      "affiliate_link": "https://amzn.to/4krvNpD",
+       "name1": "Citrus Juicer",
+        "affiliate_link1": "https://amzn.to/3Icmw7y"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve hot as a side with tacos, burritos, or grilled veggies.",
+    "store": "Refrigerate in an airtight container for up to 4 days. Reheat in microwave or skillet.",
+    "image": "images/lunch/rice/stp6.webp"
+  },
+  "pro_tips": [
+    "Rinse rice to prevent clumping and sogginess.",
+    "Use broth instead of water for richer flavor.",
+    "Add frozen corn or peas for more variety."
+  ],
+  "source": "ClickToCook.com",
+  "category": "lunch"
+},
 
   {
     "id": "Vegetarian-Quesadillas",
