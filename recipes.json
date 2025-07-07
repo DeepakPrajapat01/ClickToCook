@@ -1020,6 +1020,74 @@
   ],
   "source": "ClickToCook.com",
   "category": "Dinner"
+},
+{
+  "id": "Moroccan-Cauliflower",
+  "title": "Moroccan Cauliflower with Tahini-Honey",
+  "image": "images/dinner/cauli/first.webp",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "servings": "2 - 3",
+  "description": "Roasted cauliflower seasoned with bold Moroccan spices and finished with a creamy tahini-honey drizzle. A vibrant, healthy side or light plant-based dinner.",
+  "ingredients": [
+    "1 medium head cauliflower, chopped into florets",
+    "2 tbsp olive oil",
+    "1/2 tsp smoked paprika",
+    "1/2 tsp ground cumin",
+    "1/4 tsp ground cinnamon",
+    "1/4 tsp turmeric",
+    "Salt and pepper to taste",
+    "3 tbsp tahini",
+    "1 tbsp honey (or maple syrup)",
+    "1 tbsp lemon juice",
+    "2 tbsp warm water",
+    "Pinch of salt"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prep the Cauliflower",
+      "description": "Chop cauliflower and toss with olive oil, smoked paprika, cumin, cinnamon, turmeric, salt, and pepper in a bowl until coated.",
+      "image": "images/dinner/cauli/incre.webp",
+      "name": "Chef’s knife",
+      "affiliate_link": "https://amzn.to/44zwXtk"
+    },
+    {
+      "step": 2,
+      "title": "Roast It",
+      "description": "Preheat oven to 425°F. Spread cauliflower on a baking tray and roast for 25–30 minutes, flipping once, until golden.",
+      "image": "images/dinner/cauli/fri.webp",
+      "name": "Large baking tray",
+      "affiliate_link": "https://amzn.to/4nzaOUL"
+    },
+    {
+      "step": 3,
+      "title": "Make the Tahini-Honey Drizzle",
+      "description": "Whisk tahini, honey, lemon juice, warm water, and salt in a small bowl until smooth. Add more water if needed for drizzling consistency.",
+      "image": "images/dinner/cauli/souce.webp",
+      "name": "Glass measuring cup",
+      "affiliate_link": "https://amzn.to/4kuwVcm"
+    },
+    {
+      "step": 4,
+      "title": "Serve and Garnish",
+      "description": "Drizzle the sauce over roasted cauliflower and top with optional parsley, sesame seeds, or pomegranate arils.",
+      "image": "images/dinner/cauli/serve.jpg"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve warm, drizzled with tahini-honey and garnished with herbs or sesame seeds.",
+    "store": "Store leftovers in an airtight container for up to 3 days. Reheat in oven or air fryer for best texture.",
+    "image": "images/dinner/cauli/last.webp"
+  },
+  "pro_tips": [
+    "Use maple syrup instead of honey for a vegan version.",
+    "Add a pinch of red pepper flakes to the drizzle for a spicy twist.",
+    "Serve over couscous or quinoa for a full meal."
+  ],
+  "source": "ClickToCook.com",
+  "category": "Dinner"
 }
+
 
 ]
