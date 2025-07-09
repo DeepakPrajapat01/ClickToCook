@@ -711,6 +711,98 @@
   "source": "ClickToCook.com",
   "category": "lunch"
 },
+{
+  "id": "Vegan-Pizza-Rolls",
+  "title": "Vegan Caramelized Onion & Spinach Pizza Rolls",
+  "image": "images/lunch/rolls/serve.webp",
+  "prepTime": "20 mins",
+  "cookTime": "25 mins",
+  "servings": "10 - 12",
+  "description": "Soft, savory pizza rolls filled with caramelized onions, garlicky spinach, marinara sauce, and melty vegan cheese. Perfect for snacks, parties, or lunchboxes.",
+  "ingredients": [
+    "1 tbsp olive oil",
+    "2 medium onions, thinly sliced",
+    "Pinch of salt",
+    "2 cloves garlic, minced",
+    "2 cups fresh spinach (or 1 cup thawed frozen)",
+    "1 pizza dough (store-bought or homemade)",
+    "1/3 cup marinara sauce",
+    "1/2 cup vegan cheese shreds",
+    "Optional: red pepper flakes, fresh herbs for garnish"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Caramelize the Onions",
+      "description": "Heat oil in a skillet over medium heat. Add sliced onions and a pinch of salt. Cook for 15–20 minutes, stirring occasionally, until golden and soft.",
+      "name": "Most usefull tool for kitchen = Nonstick Skillet",
+      "affiliate_link": "https://amzn.to/4kqOVnO"
+    },
+    {
+      "step": 2,
+      "title": "Cook the Spinach",
+      "description": "Add minced garlic and spinach to the skillet with onions. Sauté for 2–3 minutes until spinach is wilted. Remove from heat.",
+      "image": "images/lunch/rolls/inc1.webp",
+      "name": "Garlic Press & Tongs",
+      "affiliate_link": "https://amzn.to/4ld7JrS"
+    },
+    {
+      "step": 3,
+      "title": "Roll Out the Dough",
+      "description": "Roll out the pizza dough on a floured surface into a large rectangle about 1/4 inch thick.",
+      "image": "images/lunch/rolls/belna.webp",
+      "name": "Rolling Pin",
+      "affiliate_link": "https://amzn.to/46wCxiM"
+    },
+    {
+      "step": 4,
+      "title": "Add the Fillings",
+      "description": "Spread marinara sauce over the dough, then layer the onion-spinach mixture and vegan cheese evenly.",
+      "image": "images/lunch/rolls/adding.webp",
+      "name": "Set of Spatula ",
+      "affiliate_link": "https://amzn.to/4lC8F98",
+       "name1": "Vegan Cheese Shreds",
+      "affiliate_link1": "https://amzn.to/4eFRMIq"
+    },
+    {
+      "step": 5,
+      "title": "Roll and Slice",
+      "description": "Roll the dough from the long side into a log. Slice into 1.5-inch pieces using a sharp knife or dental floss.",
+      "image": "images/lunch/rolls/rollit.webp",
+      "name": "Bread Knife or Pastry Cutter",
+      "affiliate_link": "https://amzn.to/4kqOJF6"
+    },
+    {
+      "step": 6,
+      "title": "Bake the Rolls",
+      "description": "Place rolls in a greased or lined baking dish. Bake at 375°F (190°C) for 20–25 minutes until golden brown.",
+      "name": "Set of 4 Ceramic Baking Dish",
+      "affiliate_link": "https://amzn.to/4nE073b"
+    },
+    {
+      "step": 7,
+      "title": "Serve and Garnish",
+      "description": "Let cool slightly. Serve warm with dipping sauce and garnish with fresh herbs if desired.",
+      "image": "images/lunch/rolls/serve.webp",
+      "name": "Serving Platter & Dipping Bowls",
+      "affiliate_link": "https://amzn.to/4lCz4DE",
+      "name1": "Dipping Bowls",
+      "affiliate_link1": "https://amzn.to/44CrhPw"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve warm with marinara or vegan ranch as a dip. Great for parties or lunchboxes.",
+    "store": "Refrigerate leftovers in an airtight container for up to 3 days. Reheat in oven or air fryer.",
+    "image": "images/lunch/rolls/serve.webp"
+  },
+  "pro_tips": [
+    "Use parchment paper to prevent sticking and easy cleanup.",
+    "Red pepper flakes add a nice kick of heat if you like spice.",
+    "Freeze unbaked rolls and bake fresh when needed."
+  ],
+  "source": "ClickToCook.com",
+  "category": "lunch"
+},
 
   {
     "id": "Vegetarian-Quesadillas",
