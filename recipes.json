@@ -1,5 +1,86 @@
 [
   {
+  "id": "Baked-Pumpkin-Oatmeal-Cups",
+  "title": "Baked Pumpkin Oatmeal Cups",
+  "image": "images/lunch/rolls/1.jpg",
+  "prepTime": "10 mins",
+  "cookTime": "25 mins",
+  "servings": "10 - 12",
+  "description": "Soft, spiced, and naturally sweet baked pumpkin oatmeal cups that are perfect for meal prep and on-the-go breakfasts. Vegan and gluten-free.",
+  "ingredients": [
+    "2 cups rolled oats (gluten-free if needed)",
+    "1 tsp baking powder",
+    "1 tsp cinnamon",
+    "1/2 tsp pumpkin pie spice (or 1/4 tsp each nutmeg & cloves)",
+    "1/4 tsp salt",
+    "1 cup pumpkin puree",
+    "1/4 cup maple syrup",
+    "1 cup plant milk (like almond or oat)",
+    "1 tsp vanilla extract",
+    "2 tbsp oil or nut butter (optional)",
+    "Optional: 1/4 cup chocolate chips or chopped nuts"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Preheat Oven and Prepare Pan",
+      "description": "Preheat oven to 350°F (175°C). Grease or line a 12-cup muffin pan with liners.",
+      "image": "images/breakfast/Baked-Pumpkin-Oatmeal-Cups/step1.png",
+      "name": "12-Cup Muffin Pan",
+      "affiliate_link": "https://amzn.to/4nH4k6j",
+       "name1": "24 Pieces of Silicone Liners",
+      "affiliate_link1": "https://amzn.to/3GGBQJh"
+    },
+    {
+      "step": 2,
+      "title": "Mix Dry Ingredients",
+      "description": "In a large bowl, whisk together oats, baking powder, cinnamon, pumpkin spice, and salt.",
+      "image": "images/breakfast/Baked-Pumpkin-Oatmeal-Cups/step2.png",
+      "name": "Set of 12 items with Mixing Bowl",
+      "affiliate_link": "https://amzn.to/3GvQN0M",
+       "name1": "Set of 6 Measuring Spoons",
+      "affiliate_link1": "https://amzn.to/4lGs3Sq"
+    },
+    {
+      "step": 3,
+      "title": "Add Wet Ingredients",
+      "description": "Stir in pumpkin puree, maple syrup, plant milk, vanilla, and oil or nut butter. Mix until combined.",
+      "image": "images/breakfast/Baked-Pumpkin-Oatmeal-Cups/step3.png",
+      "name": "4 pieces of Silicone Spatula",
+      "affiliate_link": "https://amzn.to/4lmxwxQ"
+    },
+    {
+      "step": 4,
+      "title": "Fill the Muffin Cups",
+      "description": "Scoop batter into muffin cups, filling each about 3/4 full. Add optional toppings if desired.",
+      "image": "images/breakfast/Baked-Pumpkin-Oatmeal-Cups/step4.png",
+      "name": "Set of 3 Cookie Scoop",
+      "affiliate_link": "https://amzn.to/40azHwa"
+    },
+    {
+      "step": 5,
+      "title": "Bake and Cool",
+      "description": "Bake for 25–28 minutes until tops are set and edges are golden. Cool in pan before transferring to rack.",
+      "image": "images/lunch/rolls/2.jpg",
+      "name": "Set of 2 Cooling Rack",
+      "affiliate_link": "https://amzn.to/46EmH5N"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Enjoy warm or chilled with a drizzle of nut butter or maple syrup.",
+    "store": "Store in fridge up to 5 days or freeze for 2 months in airtight containers.",
+    "image": "images/lunch/rolls/serve.jpg"
+  },
+  "pro_tips": [
+    "Use silicone muffin liners for easy release.",
+    "Add chopped apples or raisins for variation.",
+    "Drizzle almond butter or vegan yogurt on top for extra richness."
+  ],
+  "source": "ClickToCook.com",
+  "category": "breakfast"
+},
+
+  {
     "id": "strawberry-muffins",
     "title": "Strawberry Muffins",
     "image": "images/b1 (1).png",
