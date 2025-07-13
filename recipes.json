@@ -1,4 +1,82 @@
 [
+{
+  "id": "Keto-Waffles",
+  "title": "Keto Waffles",
+  "image": "images/breakfast/keto/start.webp",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "servings": "2 - 4",
+  "description": "Crispy on the outside, fluffy inside — these easy Keto Waffles are made with almond flour and eggs for a low-carb, gluten-free breakfast ready in 20 minutes.",
+  "ingredients": [
+    "1 cup almond flour",
+    "1 tsp baking powder",
+    "1/4 tsp salt",
+    "1 tbsp erythritol or monk fruit sweetener (optional)",
+    "2 large eggs",
+    "2 tbsp melted butter or coconut oil",
+    "1/4 cup unsweetened almond milk",
+    "1/2 tsp vanilla extract",
+    "Nonstick spray or oil for waffle iron",
+    "Optional toppings: keto syrup, nut butter, berries"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Preheat Waffle Iron",
+      "description": "Preheat your waffle iron to medium heat and lightly grease with oil or nonstick spray.",
+      "name": "Nonstick Waffle Maker",
+      "affiliate_link": "https://amzn.to/4nLTIDa"
+    },
+    {
+      "step": 2,
+      "title": "Mix Dry Ingredients",
+      "description": "In a bowl, mix almond flour, baking powder, salt, and optional sweetener.",
+      "image": "images/breakfast/keto/inc.webp",
+      "name": "Measuring Spoons",
+      "affiliate_link": "https://amzn.to/44LRmM8",
+       "name1": "Set of Mixing Bowl & many more items",
+      "affiliate_link1": "https://amzn.to/4eMTFTt"
+    },
+    {
+      "step": 3,
+      "title": "Add Wet Ingredients",
+      "description": "Whisk in eggs, melted butter, almond milk, and vanilla until a smooth batter forms.",
+      "name": "Pack of 3 Silicon whisk",
+      "image": "images/breakfast/keto/mixing.webp",
+      "affiliate_link": "https://amzn.to/44qUfTy"
+    },
+    {
+      "step": 4,
+      "title": "Cook the Waffles",
+      "description": "Pour batter into waffle iron and cook for 3–4 minutes or until golden brown and firm.",
+      "image": "images/breakfast/keto/better.webp",
+      "name": "Waffle Iron",
+      "affiliate_link": "https://amzn.to/3TENJ5r"
+    },
+    {
+      "step": 5,
+      "title": "Serve and Top",
+      "description": "Let waffles cool slightly and serve with keto-friendly toppings like berries or syrup.",
+      "image": "images/breakfast/keto/s1.webp",
+      "name": "Pack of 3 Silicone Tongs ",
+      "affiliate_link": "https://amzn.to/44LRyLm",
+       "name1": "SET of Serving Plate",
+      "affiliate_link1": "https://amzn.to/44IQDuR"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve hot with keto syrup, nut butter, or berries.",
+    "store": "Store in the fridge for 3–4 days or freeze for 2 months. Reheat in toaster or oven.",
+    "image": "images/breakfast/keto/serve.webp"
+  },
+  "pro_tips": [
+    "Use a silicone spatula or tongs to avoid scratching the waffle iron.",
+    "Let cooked waffles rest on a wire rack to stay crisp.",
+    "Add a dash of cinnamon or cocoa powder for flavor."
+  ],
+  "source": "ClickToCook.com",
+  "category": "breakfast"
+},
 
 
   {
