@@ -8,176 +8,209 @@
     <title>Recipe Details</title>
     <link rel="stylesheet" href="recipe.css" />
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: "Poppins", sans-serif;
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Poppins", sans-serif;
+    }
+
+    body {
+        background-color: #fff;
+        color: #333;
+        line-height: 1.6;
+        font-size: clamp(0.9rem, 1.5vw, 1rem);
+    }
+
+    .recipe-header {
+            background-color: brown;
+            color: white;
+            padding: 14px;
+            text-align: center;
+            font-size: 12px;
         }
 
-        body {
-            background-color: #fff;
-            color: #333;
-            line-height: 1.6;
+    .recipe-container {
+        max-width: 1000px;
+        margin: clamp(20px, 5vw, 40px) auto;
+        padding: clamp(15px, 4vw, 30px);
+    }
+
+    .recipe-image-box {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .recipe-image-box img {
+        width: clamp(180px, 40vw, 250px);
+        height: clamp(180px, 40vw, 250px);
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        object-fit: cover;
+    }
+
+    .recipe-meta {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        margin-bottom: 30px;
+        background: #f9f9f9;
+        padding: clamp(10px, 3vw, 20px);
+        border-radius: 8px;
+        font-size: clamp(0.9rem, 1.5vw, 1.1rem);
+        gap: 10px;
+    }
+
+    .recipe-description,
+    .recipe-ingredients,
+    .recipe-instructions {
+        margin-bottom: clamp(20px, 5vw, 30px);
+    }
+
+    .recipe-description h2,
+    .recipe-ingredients h2,
+    .recipe-instructions h2 {
+        margin-bottom: 10px;
+        color: brown;
+        font-size: clamp(1.2rem, 2.5vw, 2rem);
+    }
+
+    #ingredients-list li,
+    #instructions-list li {
+        margin-bottom: 10px;
+        padding-left: 10px;
+    }
+
+    #instructions-list .tool_link {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 20px;
+        justify-content: center;
+        margin-top: 10px;
+        padding: 10px;
+    }
+
+    #instructions-list .tool1,
+    #instructions-list .tool2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        flex: 1;
+    }
+
+    #instructions-list .tool_link a {
+        display: inline-block;
+    }
+
+    #instructions-list img,
+    #serving_and_storage img {
+        width: clamp(120px, 30vw, 200px);
+        height: clamp(120px, 30vw, 200px);
+        max-width: 100%;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin: 10px 0;
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
+    }
+
+    .card h3 {
+        font-size: clamp(1rem, 2vw, 1.5rem);
+        color: #333;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .card {
+        background-color: #f8f8f8;
+        border-radius: 10px;
+        padding: clamp(15px, 4vw, 25px);
+        margin-bottom: 20px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card a {
+        text-decoration: none;
+        color: #fff;
+        background-color: #c71818;
+        padding: 10px 20px;
+        margin-top: auto;
+        font-size: clamp(0.9rem, 1.5vw, 1.2rem);
+        display: inline-block;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+
+    #pro_tips {
+        margin-left: clamp(10px, 4vw, 30px);
+        font-size: clamp(0.9rem, 1.4vw, 1.1rem);
+    }
+
+    .recipe-footer {
+        background-color: #333;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        font-size: clamp(0.8rem, 1.3vw, 1rem);
+    }
+
+    a {
+        color: teal;
+        text-decoration: none;
+    }
+
+    /* Tablet */
+    @media (max-width: 768px) {
+        .recipe-meta {
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 15px;
         }
 
         .recipe-header {
-            background-color: brown;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-
-        .recipe-container {
-            max-width: 1000px;
-            margin: 30px auto;
-            padding: 20px;
-        }
-
-        .recipe-image-box {
-            height: 250px;
-            text-align: center;
-            margin-bottom: 20px;
+            font-size: clamp(1.2rem, 5vw, 1.8rem);
         }
 
         .recipe-image-box img {
-            max-width: 100%;
-            width: 250px;
-            height: 250px;
-            max-height: 100%;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 200px;
+            height: 200px;
         }
+    }
 
-        .recipe-meta {
-            display: flex;
-            justify-content: space-around;
-            flex-wrap: wrap;
-            margin-bottom: 30px;
-            background: #f9f9f9;
+    /* Mobile */
+    @media (max-width: 480px) {
+        .recipe-container {
             padding: 15px;
-            border-radius: 8px;
-            font-size: 16px;
+            margin: 15px auto;
         }
 
-        .recipe-description,
-        .recipe-ingredients,
-        .recipe-instructions {
-            margin-bottom: 30px;
+        .recipe-image-box img {
+            width: 150px;
+            height: 150px;
         }
 
         .recipe-description h2,
         .recipe-ingredients h2,
         .recipe-instructions h2 {
-            margin-bottom: 10px;
-            color: brown;
-            font-size: 24px;
-        }
-
-        #ingredients-list li,
-        #instructions-list li {
-            margin-bottom: 10px;
-            padding-left: 10px;
-        }
-
-        #instructions-list .tool_link {
-            display: flex;
-            flex-direction: row;
-            align-items: center;
-            gap: 40px;
-            justify-content: center;
-            margin-top: 10px;
-            
-        }
-        #instructions-list .tools {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
-        }
-        #instructions-list .tool_link a {
-            display: inline-block;
-        }
-
-        #instructions-list img {
-            width: 200px;
-            max-width: 40%;
-            height: 200px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            margin: 10px 0;
-            aspect-ratio: 1 / 1;
-        }
-
-        .card h3 {
-            font-size: clamp(0.9rem, 1.5vw, 1.8rem);
-            /* margin: 10px 0; */
-            color: #333;
+            font-size: clamp(1rem, 5vw, 1.4rem);
         }
 
         .card {
-            background-color: #f8f8f8;
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 20px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            display: flex;
+            padding: 15px;
+        }
+
+        #instructions-list .tool_link {
             flex-direction: column;
-            align-items: center;
+            gap: 10px;
         }
+    }
 
-        .card a {
-            text-decoration: none;
-            color: #fff;
-            background-color: #c71818;
-            padding: 10px 20px;
-            margin-top: auto;
-            font-size: clamp(0.8rem, 1vw, 1.2rem);
-            display: inline-block;
-            border-radius: 5px;
-            transition: background-color 0.3s ease;
-        }
-
-        #serving_and_storage img {
-            width: 200px;
-            max-width: 40%;
-            height: 200px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            margin: 10px 0;
-            aspect-ratio: 1 / 1;
-        }
-
-        #pro_tips {
-            margin-left: 30px;
-        }
-
-        .recipe-footer {
-            background-color: #333;
-            color: white;
-            padding: 20px;
-            text-align: center;
-            font-size: 14px;
-        }
-
-        a {
-            color: teal;
-            text-decoration: none;
-        }
-
-        @media (max-width: 600px) {
-            .recipe-meta {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 10px;
-            }
-
-            .recipe-description h2,
-            .recipe-ingredients h2,
-            .recipe-instructions h2 {
-                font-size: 20px;
-            }
-        }
     </style>
 </head>
 
@@ -287,14 +320,14 @@
                      <p class="recipe-description">${step.description}</p>
                      <img src="${step.image}" alt="${step.title}" class="recipe-image">  
                     <div class="tool_link">
-                    <div class="tools">
-                     <p class="recipe-description tool">${step.name}</p>
-                     <a href="${step.affiliate_link}" class="view-recipe-button">Buy Tool</a>
-                    </div>
-                    <div class="tools"> 
-                     <p class="recipe-description tool">${step.name1}</p>
-                     <a href="${step.affiliate_link1}" class="view-recipe-button">Buy Tool</a>
-                     </div>
+                        <div class="tool1">
+                           <p class="recipe-description tool">${step.name}</p>
+                            <a href="${step.affiliate_link}" class="view-recipe-button1">Buy Tool</a>
+                        </div>
+                        <div class="tool2"> 
+                            <p class="recipe-description tool">${step.name1}</p>
+                             <a href="${step.affiliate_link1}" class="view-recipe-button2">Buy Tool</a>
+                        </div>
 
                      </div>
                     `;
@@ -302,17 +335,18 @@
                         card.querySelector('img').style.display = 'none'; // Hide image if not available
                     }
                     if (!step.name) {
-                        card.querySelector('.tool').style.display = 'none'; // Hide tool name if not available
+                        card.querySelector('.tool1').style.display = 'none'; // Hide tool name if not available
                     }
                     if (!step.affiliate_link) {
-                        card.querySelector('.view-recipe-button').style.display = 'none'; // Hide button if no affiliate link
+                        card.querySelector('.view-recipe-button1').style.display = 'none'; // Hide button if no affiliate link
                     }
                     if (!step.name1) {
-                        card.querySelector('.tool').style.display = 'none'; // Hide tool name if not available
+                        card.querySelector('.tool2').style.display = 'none'; // Hide tool name if not available
                     }
                     if (!step.affiliate_link1) {
-                        card.querySelector('.view-recipe-button').style.display = 'none'; // Hide button if no affiliate link
+                        card.querySelector('.view-recipe-button2').style.display = 'none'; // Hide button if no affiliate link
                     }
+
                     instList.appendChild(card);
 
                 });

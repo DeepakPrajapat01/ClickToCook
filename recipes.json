@@ -1,4 +1,84 @@
 [
+{
+  "id": "Keto-Waffles",
+  "title": "Keto Waffles",
+  "image": "images/breakfast/keto/start.webp",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "servings": "2 - 4",
+  "description": "Crispy on the outside, fluffy inside — these easy Keto Waffles are made with almond flour and eggs for a low-carb, gluten-free breakfast ready in 20 minutes.",
+  "ingredients": [
+    "1 cup almond flour",
+    "1 tsp baking powder",
+    "1/4 tsp salt",
+    "1 tbsp erythritol or monk fruit sweetener (optional)",
+    "2 large eggs",
+    "2 tbsp melted butter or coconut oil",
+    "1/4 cup unsweetened almond milk",
+    "1/2 tsp vanilla extract",
+    "Nonstick spray or oil for waffle iron",
+    "Optional toppings: keto syrup, nut butter, berries"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Preheat Waffle Iron",
+      "description": "Preheat your waffle iron to medium heat and lightly grease with oil or nonstick spray.",
+      "name": "Nonstick Waffle Maker",
+      "affiliate_link": "https://amzn.to/4nLTIDa"
+    },
+    {
+      "step": 2,
+      "title": "Mix Dry Ingredients",
+      "description": "In a bowl, mix almond flour, baking powder, salt, and optional sweetener.",
+      "image": "images/breakfast/keto/inc.webp",
+      "name": "Measuring Spoons",
+      "affiliate_link": "https://amzn.to/44LRmM8",
+       "name1": "Set of Mixing Bowl & many more items",
+      "affiliate_link1": "https://amzn.to/4eMTFTt"
+    },
+    {
+      "step": 3,
+      "title": "Add Wet Ingredients",
+      "description": "Whisk in eggs, melted butter, almond milk, and vanilla until a smooth batter forms.",
+      "name": "Pack of 3 Silicon whisk",
+      "image": "images/breakfast/keto/mixing.webp",
+      "affiliate_link": "https://amzn.to/44qUfTy"
+    },
+    {
+      "step": 4,
+      "title": "Cook the Waffles",
+      "description": "Pour batter into waffle iron and cook for 3–4 minutes or until golden brown and firm.",
+      "image": "images/breakfast/keto/better.webp",
+      "name": "Waffle Iron",
+      "affiliate_link": "https://amzn.to/3TENJ5r"
+    },
+    {
+      "step": 5,
+      "title": "Serve and Top",
+      "description": "Let waffles cool slightly and serve with keto-friendly toppings like berries or syrup.",
+      "image": "images/breakfast/keto/s1.webp",
+      "name": "Pack of 3 Silicone Tongs ",
+      "affiliate_link": "https://amzn.to/44LRyLm",
+       "name1": "SET of Serving Plate",
+      "affiliate_link1": "https://amzn.to/44IQDuR"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve hot with keto syrup, nut butter, or berries.",
+    "store": "Store in the fridge for 3–4 days or freeze for 2 months. Reheat in toaster or oven.",
+    "image": "images/breakfast/keto/serve.webp"
+  },
+  "pro_tips": [
+    "Use a silicone spatula or tongs to avoid scratching the waffle iron.",
+    "Let cooked waffles rest on a wire rack to stay crisp.",
+    "Add a dash of cinnamon or cocoa powder for flavor."
+  ],
+  "source": "ClickToCook.com",
+  "category": "breakfast"
+},
+
+
   {
     "id": "strawberry-muffins",
     "title": "Strawberry Muffins",
@@ -27,7 +107,7 @@
         "description": "Preheat oven to 375°F (190°C). Lightly grease muffin pan or line with silicone baking cups.",
         "image": "images/breakfast/muffins/final.jpg",
         "name": "Nonstick Muffin Pan – 12 Cup",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/4ltOIkA"
       },
       {
         "step": 2,
@@ -35,7 +115,7 @@
         "description": "Combine almond milk and apple cider vinegar in a bowl. Stir and let sit for 5 minutes to curdle slightly.",
         "image": "images/breakfast/muffins/mixing.jpg",
         "name": "Mixing Bowls – Nested Set",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/45Mgswq"
       },
       {
         "step": 3,
@@ -43,7 +123,7 @@
         "description": "In a large mixing bowl, sift and whisk together flour, sugar, baking powder, baking soda, and salt.",
         "image": "images/breakfast/muffins/final.jpg",
         "name": "Silicone Spatula Set",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/4lu060B"
       },
       {
         "step": 4,
@@ -51,7 +131,7 @@
         "description": "In another bowl, mix prepared vegan buttermilk, oil, and vanilla extract.",
         "image": "images/breakfast/muffins/final1.jpg",
         "name": "Fine Mesh Sifter",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/44tDllN"
       },
       {
         "step": 5,
@@ -78,7 +158,7 @@
         "title": "Cool",
         "description": "Let muffins cool in the pan for 5 minutes, then transfer to a cooling rack.",
         "name": "Strawberry Huller & Dicer Tool",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/4exeiD1"
       }
     ],
     "serving_and_storage": {
@@ -94,6 +174,86 @@
     "source": "ClickToCook.com",
     "category": "breakfast"
   },
+  {
+  "id": "Baked-Pumpkin-Oatmeal-Cups",
+  "title": "Baked Pumpkin Oatmeal Cups",
+  "image": "images/lunch/rolls/1.jpg",
+  "prepTime": "10 mins",
+  "cookTime": "25 mins",
+  "servings": "10 - 12",
+  "description": "Soft, spiced, and naturally sweet baked pumpkin oatmeal cups that are perfect for meal prep and on-the-go breakfasts. Vegan and gluten-free.",
+  "ingredients": [
+    "2 cups rolled oats (gluten-free if needed)",
+    "1 tsp baking powder",
+    "1 tsp cinnamon",
+    "1/2 tsp pumpkin pie spice (or 1/4 tsp each nutmeg & cloves)",
+    "1/4 tsp salt",
+    "1 cup pumpkin puree",
+    "1/4 cup maple syrup",
+    "1 cup plant milk (like almond or oat)",
+    "1 tsp vanilla extract",
+    "2 tbsp oil or nut butter (optional)",
+    "Optional: 1/4 cup chocolate chips or chopped nuts"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Preheat Oven and Prepare Pan",
+      "description": "Preheat oven to 350°F (175°C). Grease or line a 12-cup muffin pan with liners.",
+    
+      "name": "12-Cup Muffin Pan",
+      "affiliate_link": "https://amzn.to/4nH4k6j",
+       "name1": "24 Pieces of Silicone Liners",
+      "affiliate_link1": "https://amzn.to/3GGBQJh"
+    },
+    {
+      "step": 2,
+      "title": "Mix Dry Ingredients",
+      "description": "In a large bowl, whisk together oats, baking powder, cinnamon, pumpkin spice, and salt.",
+      
+      "name": "Set of 12 items with Mixing Bowl",
+      "affiliate_link": "https://amzn.to/3GvQN0M",
+       "name1": "Set of 6 Measuring Spoons",
+      "affiliate_link1": "https://amzn.to/4lGs3Sq"
+    },
+    {
+      "step": 3,
+      "title": "Add Wet Ingredients",
+      "description": "Stir in pumpkin puree, maple syrup, plant milk, vanilla, and oil or nut butter. Mix until combined.",
+      
+      "name": "4 pieces of Silicone Spatula",
+      "affiliate_link": "https://amzn.to/4lmxwxQ"
+    },
+    {
+      "step": 4,
+      "title": "Fill the Muffin Cups",
+      "description": "Scoop batter into muffin cups, filling each about 3/4 full. Add optional toppings if desired.",
+      
+      "name": "Set of 3 Cookie Scoop",
+      "affiliate_link": "https://amzn.to/40azHwa"
+    },
+    {
+      "step": 5,
+      "title": "Bake and Cool",
+      "description": "Bake for 25–28 minutes until tops are set and edges are golden. Cool in pan before transferring to rack.",
+      "image": "images/lunch/rolls/2.jpg",
+      "name": "Set of 2 Cooling Rack",
+      "affiliate_link": "https://amzn.to/46EmH5N"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Enjoy warm or chilled with a drizzle of nut butter or maple syrup.",
+    "store": "Store in fridge up to 5 days or freeze for 2 months in airtight containers.",
+    "image": "images/lunch/rolls/serve.jpg"
+  },
+  "pro_tips": [
+    "Use silicone muffin liners for easy release.",
+    "Add chopped apples or raisins for variation.",
+    "Drizzle almond butter or vegan yogurt on top for extra richness."
+  ],
+  "source": "ClickToCook.com",
+  "category": "breakfast"
+},
   {
     "id": "Banana-pancakes",
     "title": " Banana Oatmeal Pancakes",
@@ -121,7 +281,7 @@
         "description": "Add 1 cup of rolled oats to a high-speed blender or food processor and blend until it becomes a fine flour.",
         "image": "images/breakfast/vegetable-sandwich/mkix.png",
         "name": "High-Speed Blender or Food Processor",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/3TUNdQK"
       },
       {
         "step": 2,
@@ -129,7 +289,7 @@
         "description": "Add banana, almond milk, flaxseed, maple syrup, baking powder, cinnamon, vanilla, and salt to the oat flour in the blender. Blend until smooth. Let batter rest 5 minutes to thicken.",
 
         "name": "Masher or Fork",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/4lHpDmF"
       },
       {
         "step": 3,
@@ -137,14 +297,14 @@
         "description": "Heat a nonstick skillet or griddle over medium heat. Lightly brush with coconut oil or vegan butter.",
         "image": "images/breakfast/vegetable-sandwich/mix1.png",
         "name": "Oil Brush or Dispenser",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/40DaCdd"
       },
       {
         "step": 4,
         "title": "Cook the Pancakes",
         "description": "Pour 1/4 cup of batter per pancake onto the skillet. Cook for 2–3 minutes until bubbles form and edges firm. Flip and cook for 1–2 minutes more.",
         "name": "Nonstick Skillet or Griddle",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/3TmA5Uo"
       },
       {
         "step": 5,
@@ -152,7 +312,7 @@
         "description": "Repeat until all batter is used. Serve pancakes warm with banana slices, maple syrup, nut butter, or berries.",
         "image": "images/breakfast/vegetable-sandwich/show.jpg",
         "name": "Measuring Cups & Spoons Set",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/4lu0FHc"
       }
     ],
     "serving_and_storage": {
@@ -196,7 +356,7 @@
         "description": "Toast the bread slices in a toaster or toaster oven until golden brown and crispy.",
         "image": "images/breakfast/Avocado-Toast/process.png",
         "name": "4-Slot Toaster or Toaster Oven",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/3Ic5JBv"
       },
       {
         "step": 2,
@@ -204,7 +364,7 @@
         "description": "Scoop the avocado into a bowl, add lemon juice, salt, and pepper. Mash with a fork until creamy but slightly chunky.",
         "image": "images/breakfast/Avocado-Toast/garnishing.png",
         "name": "Serrated Bread Knife",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/3I88y6J"
       },
       {
         "step": 3,
@@ -212,7 +372,7 @@
         "description": "Cook the eggs to your preference (fried, poached, or boiled) and season with salt and pepper.",
         "image": "images/breakfast/Avocado-Toast/garni3.png",
         "name": "Nonstick Frying Pan or Skillet",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/4l54Fy1"
       },
       {
         "step": 4,
@@ -220,7 +380,7 @@
         "description": "Spread mashed avocado on toasted bread. Top with cooked egg and optional toppings like red pepper flakes or feta.",
         "image": "images/breakfast/Avocado-Toast/garni1.png",
         "name": "Silicone Spatula",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/40ypTfn"
       }
     ],
     "serving_and_storage": {
@@ -261,7 +421,7 @@
         "title": "Slice the Bread",
         "description": "Slice the ciabatta or baguette horizontally to make a sandwich base. Toast lightly if desired.",
         "name": "Serrated Bread Knife",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/4lu0PhM"
       },
       {
         "step": 2,
@@ -269,7 +429,7 @@
         "description": "Spread basil pesto evenly on the cut sides of the bread using a spatula or spreader.",
         "image": "images/breakfast/italian-sandwich//pest.jpg",
         "name": "Tomato Slicer or Sharp Chef’s Knife",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/3IclAjC"
       },
       {
         "step": 3,
@@ -277,7 +437,7 @@
         "description": "Layer with mozzarella slices, tomato slices (seasoned with salt and pepper), basil leaves, and optional arugula or drizzle of balsamic.",
         "image": "images/breakfast/italian-sandwich/garnishing.jpg",
         "name": "Tomato Slicer or Sharp Chef’s Knife",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/3IclAjC"
       },
       {
         "step": 4,
@@ -285,7 +445,7 @@
         "description": "Close the sandwich and toast it in a panini press or skillet for 2–3 minutes per side until golden and melty.",
         "image": "images/breakfast/italian-sandwich/last.jpg",
         "name": "Pesto Spreader or Silicone Spatula",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/4kkZKYq"
       },
       {
         "step": 5,
@@ -293,7 +453,7 @@
         "description": "Slice in half and serve immediately with a side of chips or salad.",
         "image": "images/breakfast/italian-sandwich/last1.jpg",
         "name": "Cheese Slicer or Mozzarella Knife",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/4eAid2f"
       }
     ],
     "serving_and_storage": {
@@ -311,7 +471,7 @@
   },
   {
     "id": "Buffalo Tofu Wrap",
-    "title": "Buffalo Tofu Wrap – Spicy, Crispy & Totally Vegan!",
+    "title": "Buffalo Tofu Wrap –Totally Vegan!",
     "image": "images/lunch/buffalo/buffalo-tofu-wrap-2.jpg",
     "prepTime": "10 mins",
     "cookTime": "25 mins",
@@ -342,14 +502,14 @@
         "description": "Why press tofu? \n Tofu is packed in water, and before cooking, it’s essential to remove as much moisture as possible. Pressing helps the tofu become firmer, allowing it to absorb flavors better and crisp up when cooked. \n How to press it: \n Tofu press method: Place the tofu block in a tofu press, tighten, and let it sit for 15–20 minutes. \n Manual method: Wrap tofu in a clean kitchen towel or a few paper towels. Place it on a plate and set something heavy on top (like a skillet or a book). Let it press for 15–20 minutes.Pro tip: The longer you press, the better the texture—especially for stir-fries or pan-frying",
         "image": "images/lunch/buffalo/chopped-tofu.jpg",
         "name": "Tofu Press",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/4eG7V0w"
       },
       {
         "step": 2,
         "title": "Cook the Tofu",
         "description": "Pan-fry tofu in a nonstick skillet for 2–3 minutes per side until golden and crispy, or air fry at 375°F for 12–15 minutes",
         "name": "Chef’s Knife & Cutting Board",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/3I94qU6"
       },
       {
         "step": 3,
@@ -357,7 +517,7 @@
         "description": "Whisk together hot sauce, vegan butter, and garlic powder. Toss cooked tofu in the sauce until fully coated.",
         "image": "images/lunch/buffalo/baked-buffalo1-tofu.jpg",
         "name": "Mixing Bowl Set",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/45TQJSU"
       },
       {
         "step": 4,
@@ -365,7 +525,7 @@
         "description": "On a tortilla, layer lettuce, carrots, avocado, buffalo tofu, and other desired toppings. Drizzle with vegan ranch.",
         "image": "images/lunch/buffalo/buffalo-tofu-wrap-2.jpg",
         "name": "Nonstick Skillet or Air Fryer",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/3G9yAGd"
       },
       {
         "step": 5,
@@ -373,9 +533,9 @@
         "description": "Fold in the sides and roll into a tight wrap. Slice in half and serve.",
         "image": "images/lunch/buffalo/buffalo-tofu-wrap-1.jpg",
         "name": "Oil Sprayer or Silicone Brush",
-        "affiliate_link": "#",
+        "affiliate_link": "https://amzn.to/4kqClFh",
         "name1": "Wrap Roller or Silicone Mat",
-        "affiliate_link1": "#"
+        "affiliate_link1": "https://amzn.to/3TTEkHa"
       }
     ],
     "serving_and_storage": {
@@ -422,7 +582,7 @@
         "description": "Heat oil in a large skillet. Cook onion until softened, then add garlic and cook 1 more minute.",
         "image": "images/lunch/chili-mac/mixHow-to-make-Chili-Mac-5..jpg",
         "name": "Non stick skillet",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/45Nx8nh"
       },
       {
         "step": 2,
@@ -430,14 +590,14 @@
         "description": "Add ground beef and cook until browned, breaking it up as it cooks.",
         "image": "images/lunch/chili-mac/mixmake-Chili-Mac-1_1..jpg",
         "name": "Sillicone Spatula",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/3TUNuDg"
       },
       {
         "step": 3,
         "title": "Add Seasonings",
         "description": "Stir in chili powder, cumin, paprika, salt, and pepper. Cook 1 minute.",
         "name": "Measuring Cups & Spoons Set",
-        "affiliate_link": "#"
+        "affiliate_link": "https://amzn.to/3TVnEyY"
       },
       {
         "step": 4,
@@ -457,7 +617,7 @@
         "description": "Turn off heat and stir in shredded cheese until melted.",
         "image": "images/lunch/chili-mac/mixHow-to-make-Chili-Mac-4..jpg",
         "name": "Box grater",
-        "affiliate_link": "https://www.amazon.com/dp/B00004OCJQ"
+        "affiliate_link": "https://amzn.to/3I9qaPy"
       },
       {
         "step": 7,
@@ -510,7 +670,7 @@
         "description": "Preheat oven to 400°F (200°C). Prick sweet potatoes with a fork, place on parchment-lined baking sheet, drizzle with olive oil, and bake for 45–50 minutes until tender.",
         "image": "images/lunch/potatoes/roast-stp1.jpg",
         "name": "Baking tray",
-        "affiliate_link": "https://www.amazon.com/dp/B09C4W3B5M"
+        "affiliate_link": "https://amzn.to/44fmTqJ"
       },
       {
         "step": 2,
@@ -518,7 +678,7 @@
         "description": "Mix black beans, corn, bell pepper, onion, avocado, lime juice, and cumin in a bowl. Season with salt to taste.",
         "image": "images/lunch/potatoes/stp2.jpg",
         "name": "Mixing bowl",
-        "affiliate_link": "https://www.amazon.com/dp/B084ZHRM9H"
+        "affiliate_link": "https://amzn.to/40yqcqx"
       },
       {
         "step": 3,
@@ -526,7 +686,7 @@
         "description": "Slice baked sweet potatoes lengthwise, mash the inside slightly, and stuff with the bean mixture.",
         "image": "images/lunch/potatoes/stp3.jpg",
         "name": "Potato masher or fork",
-        "affiliate_link": "https://www.amazon.com/dp/B09LYRXPC3"
+        "affiliate_link": "https://amzn.to/46s5Bbd"
       },
       {
         "step": 4,
@@ -534,7 +694,7 @@
         "description": "Top with Greek yogurt, cilantro, and hot sauce. Serve warm.",
         "image": "images/lunch/potatoes/last1.jpg",
         "name": "Chef’s knife",
-        "affiliate_link": "https://www.amazon.com/dp/B00004VAGB"
+        "affiliate_link": "https://amzn.to/3ToRM5L"
       }
     ],
     "serving_and_storage": {
@@ -550,6 +710,260 @@
     "source": "ClickToCook.com",
     "category": "lunch"
   },
+  {
+  "id": "Jackfruit-Wings",
+  "title": "Jackfruit Wings: The Plant-Based Powerhouse",
+  "image": "images/lunch/jackfruit/stp5.webp",
+  "prepTime": "20 mins",
+  "cookTime": "30 mins",
+  "servings": "2 - 4",
+  "description": "These smoky, crispy, and saucy Jackfruit Wings are baked to perfection and tossed in your favorite BBQ or buffalo sauce — making you forget all about chicken. 100% plant-powered and crowd-approved!",
+  "ingredients": [
+    "1 can (20 oz) young green jackfruit in brine or water",
+    "1/2 cup chickpea flour (or all-purpose)",
+    "1/4 cup cornstarch",
+    "1 tsp garlic powder",
+    "1 tsp smoked paprika",
+    "1/2 tsp onion powder",
+    "1/8 tsp cayenne pepper (optional)",
+    "Salt and pepper to taste",
+    "1/2 cup plant-based milk (almond, soy, etc.)",
+    "1 tbsp neutral oil (avocado or canola)",
+    "1/2 cup BBQ or buffalo sauce",
+    "1 tsp maple syrup (optional)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prepare the Jackfruit",
+      "description": "Drain and rinse the jackfruit. Pat dry and shred it with hands or forks. Remove tough core bits if desired.",
+      "image": "images/lunch/jackfruit/stp1.webp",
+      "name": "Shredding forks",
+      "affiliate_link": "https://amzn.to/4ey0GHU"
+    },
+    {
+      "step": 2,
+      "title": "Make the Batter",
+      "description": "In a bowl, mix chickpea flour, cornstarch, spices, plant milk, and oil until smooth. Toss the jackfruit in this batter and coat well.",
+      "image": "images/lunch/jackfruit/stp2.webp",
+      "name": "Mixing bowls",
+      "affiliate_link": "https://amzn.to/4lENenZ"
+    },
+    {
+      "step": 3,
+      "title": "Bake the Jackfruit",
+      "description": "Preheat oven to 425°F. Place coated jackfruit on a parchment-lined tray. Bake for 20 minutes, flipping halfway, until golden and crispy.",
+      "image": "images/lunch/jackfruit/stp3.webp",
+      "name": "Baking tray",
+      "affiliate_link": "https://amzn.to/4nvCObV"
+    },
+    {
+      "step": 4,
+      "title": "Toss in Sauce",
+      "description": "Warm the BBQ or buffalo sauce with maple syrup. Toss baked jackfruit in sauce until fully coated.",
+      "image": "images/lunch/jackfruit/stp4.webp",
+      "name": "Silicone basting brush",
+      "affiliate_link": "https://amzn.to/3TTEuyg"
+    },
+    {
+      "step": 5,
+      "title": "Bake Again & Serve",
+      "description": "Return coated jackfruit to the tray and bake for 10 more minutes. Serve hot with vegan ranch and veggies.",
+      "image": "images/lunch/jackfruit/stp5.webp"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve hot with vegan ranch, celery, and carrot sticks. Great for parties or weeknight comfort meals.",
+    "store": "Store leftovers in an airtight container in the fridge for 3 days. Reheat in oven or air fryer for crispiness.",
+    "image": "images/lunch/jackfruit/stp5.webp"
+  },
+  "pro_tips": [
+    "Use parchment paper or a silicone mat to prevent sticking and ease cleanup.",
+    "Toss jackfruit in sauce only after the first bake for best texture.",
+    "Try it with Korean gochujang sauce for a spicy twist!"
+  ],
+  "source": "ClickToCook.com",
+  "category": "lunch"
+},
+{
+  "id": "Easy-Vegan-Mexican-Rice",
+  "title": "Easy Vegan Mexican Rice",
+  "image": "images/lunch/rice/first.webp",
+  "prepTime": "10 mins",
+  "cookTime": "25 mins",
+  "servings": "4 - 6",
+  "description": "A quick and flavorful one-pot Mexican rice made with simple ingredients. Perfect as a side dish or light vegan main.",
+  "ingredients": [
+    "1 cup long-grain white rice",
+    "2 tablespoons oil",
+    "1 small onion, finely chopped",
+    "2 garlic cloves, minced",
+    "1/2 cup tomato puree or sauce",
+    "1/2 teaspoon cumin",
+    "1/2 teaspoon chili powder",
+    "Salt to taste",
+    "Pinch of turmeric (optional)",
+    "2 cups water or vegetable broth",
+    "Fresh cilantro and lime juice for garnish"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Rinse the Rice",
+      "description": "Rinse rice under cold water until water runs clear. Drain thoroughly.",
+      
+      "name": "Fine Mesh Strainer",
+      "affiliate_link": "https://amzn.to/44dMpfY"
+    },
+    {
+      "step": 2,
+      "title": "Sauté Onion and Garlic",
+      "description": "Heat oil in a pan and sauté chopped onion and garlic until translucent and aromatic.",
+      "image": "images/lunch/rice/stp2.webp",
+      "name": "Nonstick Skillet",
+      "affiliate_link": "https://amzn.to/4nGm1TJ"
+    },
+    {
+      "step": 3,
+      "title": "Toast the Rice",
+      "description": "Add rice to the skillet and cook for 3–4 minutes until lightly golden, stirring often.",
+     
+      "name": "Silicone Spatula",
+      "affiliate_link": "https://amzn.to/4evlDTC"
+    },
+    {
+      "step": 4,
+      "title": "Add Tomato and Spices",
+      "description": "Stir in tomato puree, cumin, chili powder, turmeric, and salt. Cook for 2 minutes.",
+      "image": "images/lunch/rice/stp2.webp",
+      "name": "Measuring Spoon Set",
+      "affiliate_link": "https://amzn.to/44Vt5Dt"
+    },
+    {
+      "step": 5,
+      "title": "Add Water and Simmer",
+      "description": "Add water or broth. Bring to a boil, then simmer on low, covered, for 18–20 minutes.",
+      "image": "images/lunch/rice/stp4.webp",
+      "name": "Pan with Lid",
+      "affiliate_link": "https://amzn.to/4nGm1TJ"
+    },
+    {
+      "step": 6,
+      "title": "Fluff and Garnish",
+      "description": "Let rice rest 5 minutes. Fluff with a fork and garnish with cilantro and lime.",
+      "image": "images/lunch/rice/stp5.webp",
+      "name": "Herb Scissors",
+      "affiliate_link": "https://amzn.to/4krvNpD",
+       "name1": "Citrus Juicer",
+        "affiliate_link1": "https://amzn.to/3Icmw7y"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve hot as a side with tacos, burritos, or grilled veggies.",
+    "store": "Refrigerate in an airtight container for up to 4 days. Reheat in microwave or skillet.",
+    "image": "images/lunch/rice/stp6.webp"
+  },
+  "pro_tips": [
+    "Rinse rice to prevent clumping and sogginess.",
+    "Use broth instead of water for richer flavor.",
+    "Add frozen corn or peas for more variety."
+  ],
+  "source": "ClickToCook.com",
+  "category": "lunch"
+},
+{
+  "id": "Vegan-Pizza-Rolls",
+  "title": "Vegan Caramelized Onion & Spinach Pizza Rolls",
+  "image": "images/lunch/rolls/serve.webp",
+  "prepTime": "20 mins",
+  "cookTime": "25 mins",
+  "servings": "10 - 12",
+  "description": "Soft, savory pizza rolls filled with caramelized onions, garlicky spinach, marinara sauce, and melty vegan cheese. Perfect for snacks, parties, or lunchboxes.",
+  "ingredients": [
+    "1 tbsp olive oil",
+    "2 medium onions, thinly sliced",
+    "Pinch of salt",
+    "2 cloves garlic, minced",
+    "2 cups fresh spinach (or 1 cup thawed frozen)",
+    "1 pizza dough (store-bought or homemade)",
+    "1/3 cup marinara sauce",
+    "1/2 cup vegan cheese shreds",
+    "Optional: red pepper flakes, fresh herbs for garnish"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Caramelize the Onions",
+      "description": "Heat oil in a skillet over medium heat. Add sliced onions and a pinch of salt. Cook for 15–20 minutes, stirring occasionally, until golden and soft.",
+      "name": "Most usefull tool for kitchen = Nonstick Skillet",
+      "affiliate_link": "https://amzn.to/4kqOVnO"
+    },
+    {
+      "step": 2,
+      "title": "Cook the Spinach",
+      "description": "Add minced garlic and spinach to the skillet with onions. Sauté for 2–3 minutes until spinach is wilted. Remove from heat.",
+      "image": "images/lunch/rolls/inc1.webp",
+      "name": "Garlic Press & Tongs",
+      "affiliate_link": "https://amzn.to/4ld7JrS"
+    },
+    {
+      "step": 3,
+      "title": "Roll Out the Dough",
+      "description": "Roll out the pizza dough on a floured surface into a large rectangle about 1/4 inch thick.",
+      "image": "images/lunch/rolls/belna.webp",
+      "name": "Rolling Pin",
+      "affiliate_link": "https://amzn.to/46wCxiM"
+    },
+    {
+      "step": 4,
+      "title": "Add the Fillings",
+      "description": "Spread marinara sauce over the dough, then layer the onion-spinach mixture and vegan cheese evenly.",
+      "image": "images/lunch/rolls/adding.webp",
+      "name": "Set of Spatula ",
+      "affiliate_link": "https://amzn.to/4lC8F98",
+       "name1": "Vegan Cheese Shreds",
+      "affiliate_link1": "https://amzn.to/4eFRMIq"
+    },
+    {
+      "step": 5,
+      "title": "Roll and Slice",
+      "description": "Roll the dough from the long side into a log. Slice into 1.5-inch pieces using a sharp knife or dental floss.",
+      "image": "images/lunch/rolls/rollit.webp",
+      "name": "Bread Knife or Pastry Cutter",
+      "affiliate_link": "https://amzn.to/4kqOJF6"
+    },
+    {
+      "step": 6,
+      "title": "Bake the Rolls",
+      "description": "Place rolls in a greased or lined baking dish. Bake at 375°F (190°C) for 20–25 minutes until golden brown.",
+      "name": "Set of 4 Ceramic Baking Dish",
+      "affiliate_link": "https://amzn.to/4nE073b"
+    },
+    {
+      "step": 7,
+      "title": "Serve and Garnish",
+      "description": "Let cool slightly. Serve warm with dipping sauce and garnish with fresh herbs if desired.",
+      "image": "images/lunch/rolls/serve.webp",
+      "name": "Serving Platter & Dipping Bowls",
+      "affiliate_link": "https://amzn.to/4lCz4DE",
+      "name1": "Dipping Bowls",
+      "affiliate_link1": "https://amzn.to/44CrhPw"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve warm with marinara or vegan ranch as a dip. Great for parties or lunchboxes.",
+    "store": "Refrigerate leftovers in an airtight container for up to 3 days. Reheat in oven or air fryer.",
+    "image": "images/lunch/rolls/serve.webp"
+  },
+  "pro_tips": [
+    "Use parchment paper to prevent sticking and easy cleanup.",
+    "Red pepper flakes add a nice kick of heat if you like spice.",
+    "Freeze unbaked rolls and bake fresh when needed."
+  ],
+  "source": "ClickToCook.com",
+  "category": "lunch"
+},
+
   {
     "id": "Vegetarian-Quesadillas",
     "title": " Vegetarian Quesadillas, Cheesy & Satisfying",
@@ -582,7 +996,7 @@
         "description": "Heat oil in a skillet. Add peppers, zucchini, and onion. Cook 5–6 minutes until soft. Add beans, chili powder, cumin, salt, and pepper. Cook 2 minutes more.",
         "image": "images/dinner/veg quasdila/stp1.jpg",
         "name": "Non-stick skillet",
-        "affiliate_link": "https://www.amazon.com/dp/B09D6RQTY4"
+        "affiliate_link": "https://amzn.to/40yqlu5"
       },
       {
         "step": 2,
@@ -590,14 +1004,14 @@
         "description": "Sprinkle cheese over half of each tortilla. Add veggie mixture. Fold tortilla in half.",
         "image": "images/dinner/veg quasdila/stp3.jpg",
         "name": "Box grater",
-        "affiliate_link": "https://www.amazon.com/dp/B00004OCJQ"
+        "affiliate_link": "https://amzn.to/3IpXWA8"
       },
       {
         "step": 3,
         "title": "Cook Until Crispy",
         "description": "Cook each quesadilla in a skillet with butter/oil, 2–3 minutes per side until golden brown and crispy.",
         "name": "Silicone spatula",
-        "affiliate_link": "https://www.amazon.com/dp/B00004OCJQ"
+        "affiliate_link": "https://amzn.to/402MPmV"
       },
       {
         "step": 4,
@@ -605,7 +1019,7 @@
         "description": "Slice into wedges and serve with sour cream, salsa, or guacamole.",
         "image": "images/dinner/veg quasdila/start.jpg",
         "name": "Chef’s knife",
-        "affiliate_link": "https://www.amazon.com/dp/B00004VAGB"
+        "affiliate_link": "https://amzn.to/3Ie7GgR"
       }
     ],
     "serving_and_storage": {
@@ -654,14 +1068,14 @@
         "description": "Heat oil and sauté zucchini, bell pepper, mushrooms, and onion for 5–6 minutes. Add spinach and cook until wilted. Season and set aside.",
         "image": "images/dinner/VEgetarian Lasagna/stp2.png",
         "name": "Non-stick skillet",
-        "affiliate_link": "https://www.amazon.com/dp/B09D6RQTY4"
+        "affiliate_link": "https://amzn.to/3TjuZZ9"
       },
       {
         "step": 2,
         "title": "Prepare Cheese Mixture",
         "description": "In a bowl, mix ricotta, mozzarella, Parmesan, egg, and oregano until smooth.",
         "name": "Mixing bowls",
-        "affiliate_link": "https://www.amazon.com/dp/B084ZHRM9H"
+        "affiliate_link": "https://amzn.to/4lz29Qn"
       },
       {
         "step": 3,
@@ -669,7 +1083,7 @@
         "description": "Cook lasagna noodles according to package instructions. Drain and set aside.",
         "image": "images/dinner/VEgetarian Lasagna/stp4.png",
         "name": "Silicone spatula",
-        "affiliate_link": "https://www.amazon.com/dp/B0892W7P6L"
+        "affiliate_link": "https://amzn.to/4esZUM2"
       },
 
       {
@@ -678,7 +1092,7 @@
         "description": "In a 9x13 baking dish, layer sauce, noodles, cheese mixture, vegetables. Repeat layers 3 times and top with remaining cheese and sauce.",
         "image": "images/dinner/VEgetarian Lasagna/last2.png",
         "name": "Baking dish",
-        "affiliate_link": "https://www.amazon.com/dp/B01N6G6LU1"
+        "affiliate_link": "https://amzn.to/4l52aM4"
       },
       {
         "step": 5,
@@ -728,7 +1142,7 @@
         "description": "Boil salted water in a large stockpot. Cook linguine until al dente (9–10 minutes). Reserve 1/2 cup pasta water and drain.",
         "image": "images/dinner/Shrimp Scampi with Linguine/stp1.jpg",
         "name": "large stockpot",
-        "affiliate_link": "https://www.amazon.com/dp/B01N6G6LU1"
+        "affiliate_link": "https://amzn.to/44u0uVr"
       },
       {
         "step": 2,
@@ -736,7 +1150,7 @@
         "description": "Heat olive oil and half the butter in a skillet. Cook shrimp 1–2 minutes per side until pink. Remove from skillet.",
         "image": "images/dinner/Shrimp Scampi with Linguine/stp2.jpg",
         "name": "Non stick skillet",
-        "affiliate_link": "https://www.amazon.com/dp/B01N6G6LU1"
+        "affiliate_link": "https://amzn.to/3GjB9pa"
       },
       {
         "step": 3,
@@ -744,7 +1158,7 @@
         "description": "Melt remaining butter in the same pan. Add garlic and red pepper flakes. Sauté briefly, then add white wine. Simmer 2–3 minutes.",
         "image": "images/dinner/Shrimp Scampi with Linguine/stp3.jpg",
         "name": "Non stick Pan",
-        "affiliate_link": "https://www.amazon.com/dp/B01N6G6LU1"
+        "affiliate_link": "https://amzn.to/3Iq8I9v"
       },
 
       {
@@ -753,7 +1167,7 @@
         "description": "Add pasta, shrimp, lemon juice, and reserved water. Toss and cook for 1–2 minutes until well mixed.",
         "image": "images/dinner/Shrimp Scampi with Linguine/stp4.jpg",
         "name": "Mixing bowl",
-        "affiliate_link": "https://www.amazon.com/dp/B01N6G6LU1"
+        "affiliate_link": "https://amzn.to/3I91nv6"
       },
       {
         "step": 5,
@@ -774,5 +1188,158 @@
     ],
     "source": "ClickToCook.com",
     "category": "Dinner"
-  }
+  },
+  {
+  "id": "Vegan-Gyros",
+  "title": "Vegan Gyros: Greek-Inspired Wraps Bursting with Flavor",
+  "image": "images/dinner/gyro meat/stp1.webp",
+  "prepTime": "25 mins",
+  "cookTime": "15 mins",
+  "servings": "4",
+  "description": "Savory marinated soy curls, fresh veggies, and creamy vegan tzatziki sauce wrapped in soft pita. Perfect for lunch or dinner.",
+  "ingredients": [
+    "1.5 cups soy curls (or 1 block firm tofu or mushrooms)",
+    "2 tbsp olive oil",
+    "1 tsp smoked paprika",
+    "1 tsp ground cumin",
+    "1 tsp oregano",
+    "1 tbsp soy sauce or tamari",
+    "2 garlic cloves, minced",
+    "1 tbsp lemon juice",
+    "Salt & pepper to taste",
+    "1 cup thick vegan yogurt",
+    "1/2 cucumber, grated",
+    "1 tbsp olive oil (for tzatziki)",
+    "1 tbsp lemon juice (for tzatziki)",
+    "1 tbsp chopped dill",
+    "4 pita breads",
+    "1 tomato, sliced",
+    "1/2 red onion, thinly sliced",
+    "1 cup shredded lettuce or cabbage",
+    "Optional: olives, pickled onions, hot sauce"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prepare the Soy Curls or Tofu",
+      "description": "Soak soy curls in hot water for 10 minutes until plump. If using tofu, press and cut into strips.",
+      "image": "images/dinner/gyro meat/stp1.webp",
+      "name": "Large Mixing Bowl & Tofu Press",
+      "affiliate_link": "https://amzn.to/3GrPVtY"
+    },
+    {
+      "step": 2,
+      "title": "Marinate the Protein",
+      "description": "Combine olive oil, soy sauce, lemon juice, garlic, paprika, cumin, oregano, salt, and pepper. Mix in the soy curls or tofu and marinate for 15 minutes.",
+      "image": "images/dinner/gyro meat/stp2.webp",
+      "name": "Mixing Bowl & Garlic Press",
+      "affiliate_link": "https://amzn.to/4kocyxg"
+    },
+    {
+      "step": 3,
+      "title": "Cook the Protein",
+      "description": "Heat a skillet and sauté the marinated soy curls or tofu until golden and crispy, about 8–10 minutes.",
+      "image": "images/dinner/gyro meat/stp3.webp",
+      "name": "Cast Iron Skillet",
+      "affiliate_link": "https://amzn.to/4nxfWc7"
+    },
+    {
+      "step": 4,
+      "title": "Make Vegan Tzatziki",
+      "description": "Mix grated cucumber, vegan yogurt, olive oil, lemon juice, garlic, dill, and salt in a bowl. Chill until ready.",
+      "image": "images/dinner/gyro meat/stp4.webp",
+      "name": "Box Grater & Mini Whisk",
+      "affiliate_link": "https://amzn.to/4015jEe"
+    },
+    {
+      "step": 5,
+      "title": "Warm Pita and Assemble",
+      "description": "Warm pita in a pan or oven. Spread tzatziki, add soy curls/tofu, sliced tomato, onion, and lettuce. Wrap and enjoy.",
+      "image": "images/dinner/gyro meat/stp5.webp",
+      "name": "Nonstick Frying Pan",
+      "affiliate_link": "https://amzn.to/46pkBGK"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve warm with extra tzatziki or a side of lemony potatoes or salad.",
+    "store": "Store the components separately in airtight containers. Use within 3 days for best texture.",
+    "image": "images/dinner/gyro meat/stp6.webp"
+  },
+  "pro_tips": [
+    "Use soy curls for a meaty texture, but mushrooms or tofu work great too.",
+    "Make tzatziki in advance to let flavors meld.",
+    "To keep pita from tearing, warm it slightly before wrapping."
+  ],
+  "source": "ClickToCook.com",
+  "category": "Dinner"
+},
+{
+  "id": "Moroccan-Cauliflower",
+  "title": "Moroccan Cauliflower with Tahini-Honey",
+  "image": "images/dinner/cauli/first.webp",
+  "prepTime": "15 mins",
+  "cookTime": "30 mins",
+  "servings": "2 - 3",
+  "description": "Roasted cauliflower seasoned with bold Moroccan spices and finished with a creamy tahini-honey drizzle. A vibrant, healthy side or light plant-based dinner.",
+  "ingredients": [
+    "1 medium head cauliflower, chopped into florets",
+    "2 tbsp olive oil",
+    "1/2 tsp smoked paprika",
+    "1/2 tsp ground cumin",
+    "1/4 tsp ground cinnamon",
+    "1/4 tsp turmeric",
+    "Salt and pepper to taste",
+    "3 tbsp tahini",
+    "1 tbsp honey (or maple syrup)",
+    "1 tbsp lemon juice",
+    "2 tbsp warm water",
+    "Pinch of salt"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Prep the Cauliflower",
+      "description": "Chop cauliflower and toss with olive oil, smoked paprika, cumin, cinnamon, turmeric, salt, and pepper in a bowl until coated.",
+      "image": "images/dinner/cauli/incre.webp",
+      "name": "Chef’s knife",
+      "affiliate_link": "https://amzn.to/44zwXtk"
+    },
+    {
+      "step": 2,
+      "title": "Roast It",
+      "description": "Preheat oven to 425°F. Spread cauliflower on a baking tray and roast for 25–30 minutes, flipping once, until golden.",
+      "image": "images/dinner/cauli/fri.webp",
+      "name": "Large baking tray",
+      "affiliate_link": "https://amzn.to/4nzaOUL"
+    },
+    {
+      "step": 3,
+      "title": "Make the Tahini-Honey Drizzle",
+      "description": "Whisk tahini, honey, lemon juice, warm water, and salt in a small bowl until smooth. Add more water if needed for drizzling consistency.",
+      "image": "images/dinner/cauli/souce.webp",
+      "name": "Glass measuring cup",
+      "affiliate_link": "https://amzn.to/4kuwVcm"
+    },
+    {
+      "step": 4,
+      "title": "Serve and Garnish",
+      "description": "Drizzle the sauce over roasted cauliflower and top with optional parsley, sesame seeds, or pomegranate arils.",
+      "image": "images/dinner/cauli/serve.jpg"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve warm, drizzled with tahini-honey and garnished with herbs or sesame seeds.",
+    "store": "Store leftovers in an airtight container for up to 3 days. Reheat in oven or air fryer for best texture.",
+    "image": "images/dinner/cauli/last.webp"
+  },
+  "pro_tips": [
+    "Use maple syrup instead of honey for a vegan version.",
+    "Add a pinch of red pepper flakes to the drizzle for a spicy twist.",
+    "Serve over couscous or quinoa for a full meal."
+  ],
+  "source": "ClickToCook.com",
+  "category": "Dinner"
+}
+
+
 ]
