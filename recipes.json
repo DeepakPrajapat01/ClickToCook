@@ -469,6 +469,88 @@
     "source": "ClickToCook.com",
     "category": "breakfast"
   },
+
+
+  {
+  "id": "Cottage-Cheese-Egg-Salad",
+  "title": "Cottage Cheese Egg Salad",
+  "image": "images/lunch/egg/start.jpg",
+  "prepTime": "10 mins",
+  "cookTime": "10 mins",
+  "servings": "2 - 3",
+  "description": "A creamy, protein-packed twist on classic egg salad made with cottage cheese instead of mayo. Light, satisfying, and perfect for sandwiches, wraps, or bowls.",
+  "ingredients": [
+    "4 large eggs",
+    "1/2 cup cottage cheese (full-fat or low-fat)",
+    "1/4 tsp salt",
+    "1/4 tsp black pepper",
+    "1 tsp mustard (Dijon or yellow)",
+    "Optional: 1/4 tsp paprika",
+    "Optional: 1 tsp lemon juice or pickle juice",
+    "Optional: chopped celery, green onions, herbs (dill, parsley), or everything bagel seasoning"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Boil the Eggs",
+      "description": "Place eggs in a saucepan, cover with water, and bring to a boil. Once boiling, cover and remove from heat. Let sit for 10–12 minutes.",
+      "image": "images/lunch/egg/inc.jpg",
+      "name": "Saucepan with Lid",
+      "affiliate_link": "https://amzn.to/4lp5phA"
+    },
+    {
+      "step": 2,
+      "title": "Cool and Peel",
+      "description": "Transfer eggs to a bowl of ice water to cool for 5 minutes. Then peel and set aside.",
+      "name": "Mixing Bowl",
+      "affiliate_link": "https://amzn.to/40liiRk"
+    },
+    {
+      "step": 3,
+      "title": "Chop the Eggs",
+      "description": "Chop the boiled eggs to your desired texture and add to a mixing bowl.",
+      "image": "images/lunch/egg/cuttingeggs.jpg",
+      "name": "Egg Slicer or Knife",
+      "affiliate_link": "https://amzn.to/4nTaTCK"
+    },
+    {
+      "step": 4,
+      "title": "Add Cottage Cheese",
+      "description": "Add 1/2 cup cottage cheese to the chopped eggs.",
+      "image": "images/lunch/egg/mix1.jpg",
+      "name": "Measuring Cup",
+      "affiliate_link": "https://amzn.to/44M6rgw"
+    },
+    {
+      "step": 5,
+      "title": "Season the Mixture",
+      "description": "Add salt, pepper, mustard, and any optional ingredients like paprika or lemon juice. Stir gently to combine.",
+      "image": "images/lunch/egg/garnish.jpg",
+      "name": "Silicone Spatula",
+      "affiliate_link": "https://amzn.to/3GHrqcw"
+    },
+    {
+      "step": 6,
+      "title": "Serve and Enjoy",
+      "description": "Serve in lettuce wraps, on toast, or in a sandwich. Store leftovers in the fridge up to 3 days.",
+      "image": "images/lunch/egg/serve.jpg",
+      "name": "Serving Plate or Container",
+      "affiliate_link": "https://amzn.to/3GNoSJK"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Best served cold on toast, crackers, in lettuce wraps, or with veggies.",
+    "store": "Refrigerate in an airtight container for up to 3 days.",
+    "image": "images/lunch/egg/serv1.jpg"
+  },
+  "pro_tips": [
+    "Use full-fat cottage cheese for the creamiest texture.",
+    "Egg slicers make chopping super quick and even.",
+    "For extra flavor, mix in chopped pickles or herbs."
+  ],
+  "source": "ClickToCook.com",
+  "category": "lunch"
+},
   {
     "id": "Buffalo Tofu Wrap",
     "title": "Buffalo Tofu Wrap –Totally Vegan!",
