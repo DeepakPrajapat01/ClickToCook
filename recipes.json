@@ -1421,7 +1421,96 @@
   ],
   "source": "ClickToCook.com",
   "category": "Dinner"
+},
+{
+  "id": "Greek-Chicken-Meatballs-Orzo",
+  "title": "One-Pan Greek Chicken Meatballs with Lemon Orzo",
+  "image": "images/dinner/balls/start.jpg",
+  "prepTime": "15 mins",
+  "cookTime": "25 mins",
+  "servings": "4",
+  "description": "Juicy Greek-style chicken meatballs cooked in one pan with creamy, lemony orzo for a comforting, Mediterranean-inspired dinner.",
+  "ingredients": [
+    "1 lb ground chicken",
+    "2 garlic cloves, minced",
+    "1/4 cup red onion, finely diced",
+    "1/4 cup fresh parsley, chopped",
+    "1 tsp dried oregano",
+    "Zest of 1 lemon",
+    "1/3 cup breadcrumbs",
+    "1 egg",
+    "Salt and black pepper, to taste",
+    "1 tbsp olive oil",
+    "1 cup orzo pasta",
+    "2 1/2 cups low-sodium chicken broth",
+    "Juice of 1 lemon",
+    "1/4 cup feta cheese, crumbled",
+    "1 cup baby spinach (optional)",
+    "Fresh dill or parsley for garnish"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Make the Meatball Mixture",
+      "description": "In a large bowl, mix ground chicken, garlic, onion, parsley, oregano, lemon zest, breadcrumbs, egg, salt, and pepper until just combined.",
+      "image": "images/dinner/balls/inc.jpg",
+      "name": "Large Mixing Bowl",
+      "affiliate_link": "https://amzn.to/46Ac9ov"
+    },
+    {
+      "step": 2,
+      "title": "Form and Sear Meatballs",
+      "description": "Shape into meatballs (about 1.5 tbsp each) and sear in olive oil over medium heat in a large skillet until golden brown, about 4–5 minutes.",
+      "image": "images/dinner/balls/masalas.jpg",
+      "name": "Nonstick Skillet with Lid",
+      "affiliate_link": "https://amzn.to/4f06qdF"
+    },
+    {
+      "step": 3,
+      "title": "Add Orzo and Broth",
+      "description": "Push meatballs aside. Add orzo, lemon juice, and chicken broth to the pan. Stir gently to combine.",
+      "image": "images/dinner/balls/fry.jpg",
+      "name": "Silicone Spatula",
+      "affiliate_link": "https://amzn.to/45hyVPJ"
+    },
+    {
+      "step": 4,
+      "title": "Simmer Until Tender",
+      "description": "Cover and simmer on low for 10–12 minutes until orzo is tender and liquid is mostly absorbed, stirring occasionally.",
+      "name": "Skillet with Glass Lid",
+      "affiliate_link": "https://amzn.to/4nV8Zlj"
+    },
+    {
+      "step": 5,
+      "title": "Add Feta and Spinach",
+      "description": "Stir in feta and spinach (if using). Cook uncovered for another 1–2 minutes until spinach wilts.",
+      "image": "images/dinner/balls/garnish.jpg",
+      "name": "Feta Crumbler or Fork",
+      "affiliate_link": "https://amzn.to/3UhNnll"
+    },
+    {
+      "step": 6,
+      "title": "Garnish and Serve",
+      "description": "Top with fresh dill or parsley and more feta if desired. Serve warm with pita or salad.",
+      "image": "images/dinner/balls/serve.jpg",
+      "name": "Serving Bowls",
+      "affiliate_link": "https://amzn.to/3IS3X8X"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve warm with a side of Greek salad or warm pita bread.",
+    "store": "Store leftovers in an airtight container in the fridge for up to 3 days. Reheat with a splash of broth.",
+    "image": "images/dinner/balls/srv1.jpg"
+  },
+  "pro_tips": [
+    "Don’t overmix the meatball mixture — keep it light for tender meatballs.",
+    "Use whole-wheat orzo for extra fiber.",
+    "Deglaze the pan with a splash of white wine for extra flavor."
+  ],
+  "source": "ClickToCook.com",
+  "category": "Dinner"
 }
+
 
 
 ]
