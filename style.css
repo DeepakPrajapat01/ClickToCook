@@ -19,7 +19,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 10px;
-  background-color: brown;
+  background-color: #622906;
   z-index: 1000;
   width: 100%;
   border: 2px solid;
@@ -96,7 +96,7 @@ body {
   position: absolute;
   top: 100%;
   left: -90%;
-  background-color: brown;
+  background-color:#622906;
   min-width: 200px;
   width: 250px;
   height: auto;
@@ -219,7 +219,7 @@ body {
   font-size: clamp(20px, 3vw, 26px);
   color: #fff;
   text-align: center;
-  background: brown;
+  background: #622906;
   padding: 30px;
   /* border: 2px solid black; */
 }
@@ -407,7 +407,7 @@ body {
     right: 10px;
     z-index: 1001;
     margin-right: 10px;
-    background-color: brown;
+    background-color: BLACK;
     border: none;
   }
   #menu_toggle i {
@@ -433,7 +433,7 @@ body {
     left: -10px;
     width: 40%;
     height: 100vh;
-    background-color: rgb(169, 50, 50);
+    background-color: rgb(33, 19, 19);
     transition: scale 0.3s ease-in-out;
   }
   .navbar.show ul {

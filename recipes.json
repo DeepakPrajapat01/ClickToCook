@@ -1509,6 +1509,97 @@
   ],
   "source": "ClickToCook.com",
   "category": "Dinner"
+},
+{
+  "id": "Baked-Garlic-Parmesan-Chicken",
+  "title": "Baked Garlic Parmesan Chicken",
+  "image": "images/dinner/chick/st.webp",
+  "prepTime": "10 mins",
+  "cookTime": "30 mins",
+  "servings": "4",
+  "description": "Crispy, cheesy, and packed with garlic flavor, this Baked Garlic Parmesan Chicken is a simple weeknight winner that's healthier than fried chicken but just as satisfying.",
+  "ingredients": [
+    "4 boneless, skinless chicken breasts",
+    "½ cup grated Parmesan cheese",
+    "½ cup panko breadcrumbs",
+    "3 garlic cloves, minced",
+    "1 tsp Italian seasoning",
+    "½ tsp salt",
+    "½ tsp black pepper",
+    "2 tbsp olive oil or melted butter",
+    "2 tbsp chopped fresh parsley (for garnish)",
+    "Lemon wedges (optional, for serving)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Preheat the Oven",
+      "description": "Start by preheating your oven to 400°F (200°C). Line a baking sheet with parchment paper to prevent sticking or use a lightly greased sheet. If you have a wire rack, placing it over the baking sheet can help the chicken cook more evenly and get crispier on all sides.",
+      "image": "images/dinner/chick/inc.webp",
+      "name": "BEST i have used Baking Sheet",
+      "affiliate_link": "https://amzn.to/40rBuNm",
+       "name1": "Wire Rack",
+      "affiliate_link1": "https://amzn.to/4lE1Mog"
+    },
+    {
+      "step": 2,
+      "title": "Mix the Coating",
+      "description": "In a shallow bowl or dish, combine the grated Parmesan, panko breadcrumbs, minced garlic, Italian seasoning, salt, and pepper. Stir everything together until the seasonings and garlic are well distributed through the breadcrumb mixture. This will create the cheesy, flavorful crust for your chicken.",
+      "image": "images/dinner/chick/mix.webp",
+      "name": "Set of 3 Shallow Mixing Dish",
+      "affiliate_link": "https://amzn.to/4f9gYXV",
+       "name1": "Set of 4 Bowls",
+      "affiliate_link1": "https://amzn.to/4eZj6kP"
+    },
+    {
+      "step": 3,
+      "title": "Prep the Chicken",
+      "description": "Take each chicken breast and pat it dry with paper towels. This helps the coating stick better and prevents sogginess. Then, brush each piece generously on both sides with olive oil or melted butter. The oil helps the coating crisp up in the oven and adds flavor.",
+      "image": "images/dinner/chick/m.webp",
+      "name": "16 rolls of Paper Towels ",
+      "affiliate_link": "https://amzn.to/4eWKno2",
+      "name1": " Silicone Brush",
+      "affiliate_link1": "https://amzn.to/3TSbxCW"
+    },
+    {
+      "step": 4,
+      "title": "Coat the Chicken",
+      "description": "Dredge each chicken breast into the breadcrumb-Parmesan mixture, pressing down to coat both sides well. Make sure every surface is covered for the best crispy texture. Place the coated chicken onto the prepared baking sheet or rack, leaving space between each piece so they bake evenly.",
+      "image": "images/dinner/chick/m1.webp",
+      "name": "These Tongs set is best for hands protection.",
+      "affiliate_link": "https://amzn.to/3Uk0xOP"
+    },
+    {
+      "step": 5,
+      "title": "Bake the Chicken",
+      "description": "Place the chicken in the oven and bake for 25–30 minutes, or until the tops are golden brown and the internal temperature reaches 165°F (74°C). If you like an extra crispy top, switch to broil for the last 2–3 minutes—just keep an eye on it so it doesn’t burn.",
+      "name": "Most usefull devvice for cooking Oven Thermometer (Optional)",
+      "affiliate_link": "https://amzn.to/4eZeueJ"
+    },
+    {
+      "step": 6,
+      "title": "Garnish and Serve",
+      "description": "Once cooked, remove the chicken from the oven and let it rest for a few minutes. This keeps it juicy. Garnish with fresh chopped parsley and serve with lemon wedges on the side for a fresh, zesty finish. Great with a side of roasted vegetables or mashed potatoes.",
+      "image": "images/dinner/chick/sv.webp",
+      "name": "this Chef’s Knife set is AMAZING ",
+      "affiliate_link": "https://amzn.to/4ofL5kP",
+       "name1": "I have used these Serving Plate's",
+      "affiliate_link1": "https://amzn.to/4m594RM"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve hot, paired with a fresh salad, garlic bread, or steamed veggies for a complete meal.",
+    "store": "Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in an oven or air fryer to maintain crispiness.",
+    "image": "images/dinner/chick/sv1.webp"
+  },
+  "pro_tips": [
+    "Use freshly grated Parmesan for better melt and flavor.",
+    "Thinner chicken breasts or cutlets will cook faster—adjust time accordingly.",
+    "For a spicy kick, add a pinch of chili flakes to the breadcrumb mix.",
+    "To meal prep, coat the chicken and refrigerate raw for up to 8 hours before baking."
+  ],
+  "source": "ClickToCook.com",
+  "category": "Dinner"
 }
 
 
