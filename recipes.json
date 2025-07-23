@@ -77,6 +77,110 @@
   "source": "ClickToCook.com",
   "category": "breakfast"
 },
+{
+  "id": "Chocolate-Chip-Avocado-Muffins",
+  "title": "Chocolate Chip Avocado Muffins – Healthy Breakfast or Snack",
+  "image": "images/breakfast/choco/start.jpg",
+  "prepTime": "10 minutes",
+  "cookTime": "20–22 minutes",
+  "servings": "12 muffins",
+  "description": "Moist, fluffy, and made with heart-healthy avocado, these chocolate chip muffins are a delicious and nutritious choice for breakfast or a snack.",
+  "ingredients": [
+    "1 ripe avocado (mashed)",
+    "1/2 cup honey or maple syrup",
+    "2 large eggs",
+    "1/3 cup unsweetened almond milk (or milk of choice)",
+    "1 tsp vanilla extract",
+    "1 cup whole wheat flour",
+    "1/2 cup all-purpose flour (or use all whole wheat)",
+    "1/2 cup rolled oats (optional for texture)",
+    "1 tsp baking soda",
+    "1/2 tsp baking powder",
+    "1/4 tsp salt",
+    "1/2 tsp cinnamon (optional)",
+    "1/2 cup mini or regular dark chocolate chips",
+    "Optional: chopped walnuts or pecans"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Mash the Avocado",
+      "description": "Peel and pit the avocado. Mash it until smooth using a fork or a food processor to remove lumps.",
+      "image": "images/breakfast/choco/inc.jpg",
+      "name": "Potato Masher or Mini Food Processor",
+      "affiliate_link": "https://amzn.to/3H1w6df"
+    },
+    {
+      "step": 2,
+      "title": "Mix Wet Ingredients",
+      "description": "In a large bowl, whisk together the mashed avocado, honey (or maple syrup), eggs, almond milk, and vanilla extract until smooth.",
+      "image": "images/breakfast/choco/mixiii.jpg",
+      "name": "Set of 3 Balloon Whisk",
+      "affiliate_link": "https://amzn.to/4f2OgYJ"
+    },
+    {
+      "step": 3,
+      "title": "Mix Dry Ingredients",
+      "description": "In a separate bowl, combine the flours, oats, baking soda, baking powder, salt, and cinnamon (if using).",
+      "image": "images/breakfast/choco/mixinbowl.jpg",
+      "name": "SET of 3 Mixing Bowl ",
+      "affiliate_link": "https://amzn.to/4lEQiR7"
+    },
+    {
+      "step": 4,
+      "title": "Combine Wet and Dry",
+      "description": "Gradually stir the dry ingredients into the wet mixture until just combined. Don’t overmix or muffins will be dense.",
+      "name": "Silicone Spatula",
+      "affiliate_link": "https://amzn.to/44HxQ4u"
+    },
+    {
+      "step": 5,
+      "title": "Add Chocolate Chips",
+      "description": "Gently fold in the chocolate chips and optional nuts. Save a few chips to sprinkle on top before baking.",
+      "image": "images/breakfast/choco-avocado-muffins/step5.png",
+      "name": "Mixing Spoon",
+      "affiliate_link": "https://amzn.to/450ydGm"
+    },
+    {
+      "step": 6,
+      "title": "Fill Muffin Tin",
+      "description": "Line a muffin tin with paper liners or grease it lightly. Fill each cup 3/4 of the way with batter.",
+    
+      "name": "12-Cup Muffin Tin",
+      "affiliate_link": "https://amzn.to/3IEJRix",
+       "name1": " Ice Cream Scoop",
+      "affiliate_link1": "https://amzn.to/3GZLPcH"
+    },
+    {
+      "step": 7,
+      "title": "Bake",
+      "description": "Bake at 350°F (175°C) for 20–22 minutes, or until a toothpick inserted comes out clean.",
+      "image": "images/breakfast/choco/bake.jpg",
+      "name": "Oven Thermometer (Optional)",
+      "affiliate_link": "https://amzn.to/46jjB7b"
+    },
+    {
+      "step": 8,
+      "title": "Cool and Serve",
+      "description": "Let muffins cool in the pan for 5 minutes, then transfer to a wire rack to cool completely before serving or storing.",
+      "image": "images/breakfast/choco/srv.jpg",
+      "name": "Cooling Rack",
+      "affiliate_link": "https://amzn.to/455aPY9"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Enjoy warm or at room temperature with a cup of coffee or smoothie.",
+    "store": "Store in an airtight container at room temperature for 2 days or refrigerate for up to 5 days. Freezer-friendly for 2 months.",
+    "image": "images/breakfast/choco/srv1.jpg"
+  },
+  "pro_tips": [
+    "Use a very ripe avocado for smoother texture and better sweetness balance.",
+    "Add a few chocolate chips on top of the batter for a bakery-style look.",
+    "For extra protein, add a tablespoon of chia seeds or flaxseed to the batter."
+  ],
+  "source": "ClickToCook.com",
+  "category": "breakfast"
+},
 
 
   {
