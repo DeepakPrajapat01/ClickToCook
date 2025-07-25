@@ -1149,6 +1149,99 @@
   "source": "ClickToCook.com",
   "category": "lunch"
 },
+{
+  "id": "Southwest-Chicken-Salad",
+  "title": "Southwest Chicken Salad",
+  "image": "images/lunch/chickensalad/start.webp",
+  "prepTime": "15 minutes",
+  "cookTime": "15 minutes",
+  "servings": "2–3",
+  "description": "A hearty and vibrant salad with grilled chicken, black beans, corn, creamy avocado, and a zesty homemade dressing. Perfect for lunch or dinner!",
+  "ingredients": [
+    "2 boneless skinless chicken breasts",
+    "1 tbsp olive oil",
+    "1 tsp chili powder",
+    "1/2 tsp cumin",
+    "1/2 tsp garlic powder",
+    "1/2 tsp paprika",
+    "Salt and pepper to taste",
+    "4 cups romaine lettuce or mixed greens",
+    "1 cup canned black beans (rinsed & drained)",
+    "1 cup corn (canned or grilled)",
+    "1 red bell pepper, diced",
+    "1 avocado, sliced",
+    "1/2 red onion, thinly sliced",
+    "1/2 cup cherry tomatoes, halved",
+    "Optional: shredded cheese or crushed tortilla chips"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Season the Chicken",
+      "description": "Rub chicken with olive oil and coat with chili powder, cumin, garlic powder, paprika, salt, and pepper.",
+     
+      "name": "Mixing Bowl",
+      "affiliate_link": "https://amzn.to/44YY5SU",
+       "name1": "Zip-Top Bag",
+      "affiliate_link2": "https://amzn.to/4o7HYLp"
+    },
+    {
+      "step": 2,
+      "title": "Cook the Chicken",
+      "description": "Grill or cook the chicken on medium heat for 6–7 minutes per side until fully cooked (165°F). Let it rest before slicing.",
+      
+      "name": "Cast Iron Grill Pan",
+      "affiliate_link": "https://amzn.to/40xavQz"
+    },
+    {
+      "step": 3,
+      "title": "Prepare the Dressing",
+      "description": "Whisk Greek yogurt, lime juice, olive oil, honey, cumin, salt, and pepper until smooth and creamy.",
+      "image": "images/lunch/chickensalad/inc.webp",
+      "name": "Whisk ",
+      "affiliate_link": "https://amzn.to/40XLzSD",
+      "name1": "Mason Jar",
+      "affiliate_link2": "https://amzn.to/4kXR5vo"
+    },
+    {
+      "step": 4,
+      "title": "Build the Salad",
+      "description": "In a large bowl, add lettuce, black beans, corn, bell pepper, red onion, and cherry tomatoes.",
+      "image": "images/lunch/chickensalad/mix.webp",
+      "name": "Salad Spinner",
+      "affiliate_link": "https://amzn.to/4lKL4n0"
+    },
+    {
+      "step": 5,
+      "title": "Add Chicken & Avocado",
+      "description": "Top salad with sliced chicken and avocado. Add optional cheese or tortilla chips if desired.",
+      "image": "images/lunch/chickensalad/add.webp",
+      "name": "Chef Knife",
+      "affiliate_link": "https://amzn.to/3TTBjXz"
+    },
+    {
+      "step": 6,
+      "title": "Drizzle Dressing & Serve",
+      "description": "Drizzle dressing over salad or toss to combine. Serve fresh with lime wedges if desired.",
+      "image": "images/lunch/chickensalad/srv.webp",
+      "name": "Serving Tongs",
+      "affiliate_link": "https://amzn.to/4o7EXuu"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Serve immediately for best flavor and texture.",
+    "store": "Keep salad and dressing separate in airtight containers in the fridge for up to 3 days.",
+    "image": "images/lunch/chickensalad/serv.webp"
+  },
+  "pro_tips": [
+    "Use pre-cooked rotisserie chicken for a quick version.",
+    "Grill corn for extra flavor if you have time.",
+    "Add jalapeños or hot sauce for a spicy kick!"
+  ],
+  "source": "ClickToCook.com",
+  "category": "lunch"
+},
+
 
   {
     "id": "Vegetarian-Quesadillas",
