@@ -1241,6 +1241,99 @@
   "source": "ClickToCook.com",
   "category": "lunch"
 },
+{
+  "id": "Spicy-Sriracha-Salmon-Bowls",
+  "title": "Spicy Sriracha Salmon Bowls",
+  "image": "images/lunch/salmon/strt.webp",
+  "prepTime": "15 minutes",
+  "cookTime": "15 minutes",
+  "servings": "2–3",
+  "description": "These Spicy Sriracha Salmon Bowls are loaded with bold flavor, wholesome ingredients, and colorful crunch. Perfect for meal prep or a quick weeknight dinner!",
+  "ingredients": [
+      "2 salmon fillets",
+      "1 tbsp sriracha sauce",
+      "1 tbsp soy sauce or tamari",
+      "1 tbsp honey or maple syrup",
+      "1 tsp sesame oil",
+      "1/2 tsp garlic powder",
+      "1 cup cooked jasmine or brown rice",
+      "1/2 cup shredded carrots",
+      "1/2 cup cucumber, sliced or julienned",
+      "1/2 avocado, sliced",
+      "1/4 cup red cabbage, shredded",
+      "1 tbsp sesame seeds",
+      "Cilantro or green onions (for garnish)",
+      "Lime wedges (for serving)",
+      "2 tbsp mayonnaise or Greek yogurt",
+      "1 tsp sriracha",
+      "1/2 tsp lime juice"
+    ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Make the Sriracha Marinade",
+      "description": "In a small bowl, whisk together sriracha, soy sauce, honey, sesame oil, and garlic powder to create a spicy glaze for the salmon.",
+      "image": "images/lunch/salmon/inc.webp",
+      "name": "Mixing Bowl",
+      "affiliate_link": "https://amzn.to/3TW626i"
+    },
+    {
+      "step": 2,
+      "title": "Marinate the Salmon",
+      "description": "Place the salmon fillets in a shallow dish or zip-top bag. Pour the marinade over and let rest for at least 10 minutes to absorb flavor.",
+      "image": "images/lunch/salmon/meri.webp",
+      "name": "Zip-top Bag ",
+      "affiliate_link": "https://amzn.to/471O1eo"
+    },
+    {
+      "step": 3,
+      "title": "Cook the Salmon",
+      "description": "Either bake the salmon in a preheated oven at 400°F for 12–15 minutes, or pan-sear over medium heat for 4–5 minutes per side until cooked through.",
+      "name": "Baking Sheet",
+      "affiliate_link": "https://amzn.to/40C0fqd"
+    },
+    {
+      "step": 4,
+      "title": "Make Sriracha Mayo",
+      "description": "In a small bowl, whisk together mayonnaise (or yogurt), sriracha, and lime juice until creamy and smooth.",
+      "image": "images/lunch/salmon/meri1.webp",
+      "name": "Mini Whisk",
+      "affiliate_link": "https://amzn.to/3IO8edN",
+       "name1": "Bowl",
+      "affiliate_link1": "https://amzn.to/46vzd7F"
+    },
+    {
+      "step": 5,
+      "title": "Assemble the Bowls",
+      "description": "Divide rice into serving bowls and top with carrots, cucumber, cabbage, avocado, and the cooked salmon. Drizzle sriracha mayo on top.",
+      "image": "images/lunch/salmon/rice.webp",
+      "name": "Serving Bowls",
+      "affiliate_link": "https://amzn.to/46vzd7F"
+    },
+    {
+      "step": 6,
+      "title": "Garnish and Serve",
+      "description": "Sprinkle sesame seeds, add chopped cilantro or green onions, and serve with lime wedges. Enjoy warm or chilled.",
+      "image": "images/lunch/salmon/srv1.webp",
+      "name": "Garnishing Tools",
+      "affiliate_link": "https://amzn.to/3U2oZUT"
+    }
+  ],
+  "serving_and_storage": {
+    "serve": "Best served fresh with warm salmon and chilled veggies.",
+    "store": "Store each component separately in airtight containers in the fridge for up to 3 days. Assemble when ready to eat.",
+    "image": "images/lunch/salmon/srv.webp"
+  },
+  "pro_tips": [
+    "Use leftover or microwave rice to save time.",
+    "Double the sriracha mayo for dipping or extra drizzling.",
+    "Swap salmon for shrimp or tofu for variation."
+  ],
+ 
+  "source": "ClickToCook.com",
+  "category": "lunch"
+}
+,
 
 
   {
